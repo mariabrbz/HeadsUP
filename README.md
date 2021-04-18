@@ -4,7 +4,7 @@
 We wanted to create an interactive game where new drivers can learn about essential driving and traffic rules.
 
 ## What it does
-HeadsUp is an interactive game designed to educate new drivers about important driving practices and traffic rules. Players will have the chance to learn about essential driving rules during the game and receive feedback for improvements. We based the rules of our game on the MVD Driving Manual.
+HeadsUp is an interactive game designed to educate new drivers about important driving skills and traffic rules. Players will have the chance to learn about essential driving rules during the game and receive feedback for improvements. Additionally, there are be pop-up questions to test players' driving knowledge and their scores will determine their current driving skills. We based the rules of our game on the MVD Driving Manual.
 
 ## How we built it
 We built the game using unity and coded in C#.
