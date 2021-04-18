@@ -1,0 +1,1084 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/abbyliu/HackDarmouthProj/DrivingGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52737
+Successfully changed project path to: /Users/abbyliu/HackDarmouthProj/DrivingGame
+/Users/abbyliu/HackDarmouthProj/DrivingGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 18.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/abbyliu/HackDarmouthProj/DrivingGame/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-17 15:15:12.610 Unity[2215:129633] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
+2021-04-17 15:15:12.610 Unity[2215:129633] Metal devices available: 1
+2021-04-17 15:15:12.610 Unity[2215:129633] 0: AMD Radeon Pro 5500 XT (high power)
+2021-04-17 15:15:12.610 Unity[2215:129633] Using device AMD Radeon Pro 5500 XT (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500 XT
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56215
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000388 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 18.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.619 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.9 MB.
+System memory in use after: 109.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 2.047151 ms (FindLiveObjects: 0.187121 ms CreateObjectMapping: 0.048396 ms MarkObjects: 1.713484 ms  DeleteObjects: 0.097185 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SimplePoly - Town Pack/DemoScene
+  artifactKey: Guid(9466b19fc5cab754a9aa9bd2f1919fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/DemoScene using Guid(9466b19fc5cab754a9aa9bd2f1919fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df1338c1b425ba9025db9954c3cc458') in 0.002635 seconds
+  Import took 0.004233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.878739 seconds.
+  path: Assets/SimplePoly - Town Pack/DemoScene/DemoScene
+  artifactKey: Guid(a027502def7642c47b1f504a5dde05d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/DemoScene/DemoScene using Guid(a027502def7642c47b1f504a5dde05d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f1bd22987bf9e219f2d8530c8d87f5') in 0.000557 seconds
+  Import took 0.002059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047890 seconds.
+  path: Assets/SimplePoly - Town Pack/DemoScene/DemoScene/LightingData.asset
+  artifactKey: Guid(45f01c8add84fcc4599e93e9a431fe21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/DemoScene/DemoScene/LightingData.asset using Guid(45f01c8add84fcc4599e93e9a431fe21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Lighting data asset ‘LightingData’ is incompatible with the current Unity version. Please use Generate Lighting to rebuild the lighting data.  Realtime Global Illumination cannot be used until the lighting data is rebuilt.
+
+ -> (artifact id: '4a7b73025d8be17228c01688315bd890') in 0.319689 seconds
+  Import took 0.321311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SimplePoly - Town Pack/DemoScene/DemoScene/ReflectionProbe-0.exr
+  artifactKey: Guid(5d689c469cb265844875539f208ca02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/DemoScene/DemoScene/ReflectionProbe-0.exr using Guid(5d689c469cb265844875539f208ca02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0a3b852612a5770400f2b069729281') in 0.444622 seconds
+  Import took 0.446102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.769165 seconds.
+  path: Assets/SimplePoly - Town Pack/Materials/sptp_Main_Mat.mat
+  artifactKey: Guid(efc5c571bbbc3d948ada09120e19266f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Materials/sptp_Main_Mat.mat using Guid(efc5c571bbbc3d948ada09120e19266f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4cdd815062c94565c1f45ded58ef24') in 0.543281 seconds
+  Import took 0.547184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/SimplePoly - Town Pack/Materials/sptp_WhitePlane_Mat.mat
+  artifactKey: Guid(4f9ac3095c8e05240ae127d887aa29d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Materials/sptp_WhitePlane_Mat.mat using Guid(4f9ac3095c8e05240ae127d887aa29d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fde07cff309fedf09548df3232617ea') in 0.183462 seconds
+  Import took 0.185172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.014608 seconds.
+  path: Assets/SimplePoly - Town Pack/Textures/sptp_Main_Texture.png
+  artifactKey: Guid(b42e91acc804c4a4f8f4e03714d63ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Textures/sptp_Main_Texture.png using Guid(b42e91acc804c4a4f8f4e03714d63ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97a469e1ed9507881495df1977738ec') in 0.335210 seconds
+  Import took 0.339920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.157706 seconds.
+  path: Packages/com.unity.ext.nunit
+  artifactKey: Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit using Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c47001bfd2c16fdf799ec06ad5da671') in 0.000805 seconds
+  Import took 0.002478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160997 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca204109b1dcda167d7298966cc1976a') in 0.293445 seconds
+  Import took 0.295797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.924150 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_01.FBX
+  artifactKey: Guid(e4452562655a94842af3cc73a8d6db90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_01.FBX using Guid(e4452562655a94842af3cc73a8d6db90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572553dfea558b550e298e095e6bce72') in 0.489011 seconds
+  Import took 0.490846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_15.FBX
+  artifactKey: Guid(0476e85d484c17943b575696fc1aa806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_15.FBX using Guid(0476e85d484c17943b575696fc1aa806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6ecb14266e0440ec90862becddcd8d') in 0.009056 seconds
+  Import took 0.010642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_20.FBX
+  artifactKey: Guid(d8b19a7b18944db4b96bd08f8b96794e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_20.FBX using Guid(d8b19a7b18944db4b96bd08f8b96794e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e9643ababc4e3f9c9b212869ee0404') in 0.009338 seconds
+  Import took 0.010916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_24.FBX
+  artifactKey: Guid(48c0c1fb919ca004a976079d78126956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_24.FBX using Guid(48c0c1fb919ca004a976079d78126956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b26e23b930eee3f8ef47c6854c55f8') in 0.008125 seconds
+  Import took 0.009619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_27.FBX
+  artifactKey: Guid(c2837cbbe0fda9545a235d7ef1092ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_27.FBX using Guid(c2837cbbe0fda9545a235d7ef1092ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3d64b84294b475897b14deb67fb112') in 0.008336 seconds
+  Import took 0.009779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_08.FBX
+  artifactKey: Guid(745e0a5bd91c37d4e9e91cce05cc14c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_08.FBX using Guid(745e0a5bd91c37d4e9e91cce05cc14c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24bcb3e33073450cbc5ebff00ecb463') in 0.011354 seconds
+  Import took 0.012803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_09.FBX
+  artifactKey: Guid(c67515eec82f1a747a9d549457de1b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_09.FBX using Guid(c67515eec82f1a747a9d549457de1b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eae87de5a9e51614aa05adde05b784f') in 0.008165 seconds
+  Import took 0.009556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_26.FBX
+  artifactKey: Guid(0989c5f0d787c1f468d7bade6bdd7391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_26.FBX using Guid(0989c5f0d787c1f468d7bade6bdd7391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762832158802f8953b8fdf1259900a50') in 0.009515 seconds
+  Import took 0.010993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_07.FBX
+  artifactKey: Guid(f964ee7d5778561438a40e89042efd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_07.FBX using Guid(f964ee7d5778561438a40e89042efd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b868a3708c030630ae9e2e7d33f0a8a') in 0.007839 seconds
+  Import took 0.009459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_03.FBX
+  artifactKey: Guid(6a90a2ff4084f4d45a1a1c21eab2b597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_03.FBX using Guid(6a90a2ff4084f4d45a1a1c21eab2b597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a94394f1c737bee231249df014da81c') in 0.007631 seconds
+  Import took 0.009407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_05.FBX
+  artifactKey: Guid(b3ea046a2ec1ce84fa51809bb916511a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_05.FBX using Guid(b3ea046a2ec1ce84fa51809bb916511a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6568d5b9dc46cf0213f16aa57cf18949') in 0.007881 seconds
+  Import took 0.009396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_29.FBX
+  artifactKey: Guid(ad3cf15462b4a214f9fd70dd549e9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_29.FBX using Guid(ad3cf15462b4a214f9fd70dd549e9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73968f054f83c1b0eeccb5e2eb0982e') in 0.009951 seconds
+  Import took 0.011547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_33.FBX
+  artifactKey: Guid(6ab538a53bf049746b38b1ab81312bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_33.FBX using Guid(6ab538a53bf049746b38b1ab81312bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5381dc4538dfa20a65b3e2a952009c80') in 0.018361 seconds
+  Import took 0.020635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_13.FBX
+  artifactKey: Guid(754f60096a070384db9dc966a4bdc5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_13.FBX using Guid(754f60096a070384db9dc966a4bdc5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4522f9eef875b986cb55f2aa09a173f0') in 0.008666 seconds
+  Import took 0.010470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_18.FBX
+  artifactKey: Guid(3b870980dc4fe9e499de4970d246ca16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_18.FBX using Guid(3b870980dc4fe9e499de4970d246ca16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf273b1fad1c0ec287c403a58b25ffe') in 0.008449 seconds
+  Import took 0.010170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_23.FBX
+  artifactKey: Guid(f8cacfed4104c7e4e889843815678cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_23.FBX using Guid(f8cacfed4104c7e4e889843815678cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00527880dadc34a66611d04baf25666') in 0.007779 seconds
+  Import took 0.009339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_16.FBX
+  artifactKey: Guid(0d93f73685cda1946a5f27537c2d1194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_16.FBX using Guid(0d93f73685cda1946a5f27537c2d1194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d106582de26026690373daf638d86de') in 0.008363 seconds
+  Import took 0.010028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_21.FBX
+  artifactKey: Guid(4f0c739edabc7d144bc82a3882bdaf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_21.FBX using Guid(4f0c739edabc7d144bc82a3882bdaf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1ed996ee1055dd080f059eff4ece7d') in 0.007442 seconds
+  Import took 0.008891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_17.FBX
+  artifactKey: Guid(f60d1ec722928544a84e4cf4145ba9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_17.FBX using Guid(f60d1ec722928544a84e4cf4145ba9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b431cdf67ab057d75905d329d336b86') in 0.008263 seconds
+  Import took 0.009767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_14.FBX
+  artifactKey: Guid(78c97626fed012e4f9c5ce5a5c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_14.FBX using Guid(78c97626fed012e4f9c5ce5a5c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e7c8d5c3fcca7e3589206195dfb0d5') in 0.011805 seconds
+  Import took 0.013294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_19.FBX
+  artifactKey: Guid(00fa65517d52f1341922d84b6ca00dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_19.FBX using Guid(00fa65517d52f1341922d84b6ca00dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6075fdc2683a28423a5a43cb067558db') in 0.008050 seconds
+  Import took 0.009569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_22.FBX
+  artifactKey: Guid(edc41dbd86c9b054d958beee7a9bea48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_22.FBX using Guid(edc41dbd86c9b054d958beee7a9bea48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7ab682ebbf8efe70ff8afef8637b28') in 0.009605 seconds
+  Import took 0.011201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_02.FBX
+  artifactKey: Guid(7b293d5ad44ac9d4485e37822a421532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_02.FBX using Guid(7b293d5ad44ac9d4485e37822a421532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465ca6f2923c1e9cae16c75eb5fdbe82') in 0.012681 seconds
+  Import took 0.014436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_10.FBX
+  artifactKey: Guid(ee1e87d4d554f474cbd8b0dd7842ac64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_10.FBX using Guid(ee1e87d4d554f474cbd8b0dd7842ac64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69347a972a17a9a0ddea6fd57f9efe1b') in 0.012381 seconds
+  Import took 0.014228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_32.FBX
+  artifactKey: Guid(a82bd67ed683ae846b35fa3b4baa9fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_32.FBX using Guid(a82bd67ed683ae846b35fa3b4baa9fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '284a6a98e92eaed2b30ecfc9a38b4871') in 0.011164 seconds
+  Import took 0.013089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_25.FBX
+  artifactKey: Guid(42059ee947672724b94d40e21bb472cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_25.FBX using Guid(42059ee947672724b94d40e21bb472cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e077795d2bbfec53479ac046700dc72') in 0.009546 seconds
+  Import took 0.012238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_11.FBX
+  artifactKey: Guid(f4e45334a1e115a40b38ff219d3c3c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_11.FBX using Guid(f4e45334a1e115a40b38ff219d3c3c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e9d4cedcf3c9d268209dba92223bb6') in 0.011760 seconds
+  Import took 0.013458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_12.FBX
+  artifactKey: Guid(eb564a8491228404f83928e58a08855e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_12.FBX using Guid(eb564a8491228404f83928e58a08855e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5fe98ed5dc97f14f3241605cb55c6fb') in 0.008488 seconds
+  Import took 0.010848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_31.FBX
+  artifactKey: Guid(e368e3eabf82d8f45a27eeb101034e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_31.FBX using Guid(e368e3eabf82d8f45a27eeb101034e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89974eaa4e54baeb1d2bf8f95da88e3') in 0.009322 seconds
+  Import took 0.010945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_30.FBX
+  artifactKey: Guid(e53ff8fb68e2bd3439d5ba8de3928540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_30.FBX using Guid(e53ff8fb68e2bd3439d5ba8de3928540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1c3963b9583b813744eed465c5cf41') in 0.008407 seconds
+  Import took 0.010043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_06.FBX
+  artifactKey: Guid(3cfd88e81c5eeb743838d6c224c7b3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_06.FBX using Guid(3cfd88e81c5eeb743838d6c224c7b3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4552e882c5fdeee62e1124c37354c8c') in 0.007865 seconds
+  Import took 0.009514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_28.FBX
+  artifactKey: Guid(4de21de59b9f5ab4da836cc76a193d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_28.FBX using Guid(4de21de59b9f5ab4da836cc76a193d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416b2c8ac43c4f8f7c506179f599b62a') in 0.008709 seconds
+  Import took 0.010461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_04.FBX
+  artifactKey: Guid(477afe0d7f2f40b4389fe32797c6eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_04.FBX using Guid(477afe0d7f2f40b4389fe32797c6eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9d3189c350a2ac93619e5eb3516f2f') in 0.008520 seconds
+  Import took 0.010231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.745697 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_34.FBX
+  artifactKey: Guid(1bd0e2d50a20fb64ab47b4b9a8f32d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_34.FBX using Guid(1bd0e2d50a20fb64ab47b4b9a8f32d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6141818646bd64cb8bc1290ce4aca5') in 0.010387 seconds
+  Import took 0.012091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_35.FBX
+  artifactKey: Guid(35f5b913ad01f8f4bb678c6222f8f8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings/sptp_building_35.FBX using Guid(35f5b913ad01f8f4bb678c6222f8f8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ce1904e8a9e21233af09c6bfa1547d') in 0.007830 seconds
+  Import took 0.009279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.696257 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_bush_01.FBX
+  artifactKey: Guid(6980ea277fb024a4ea8540084d1a6445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_bush_01.FBX using Guid(6980ea277fb024a4ea8540084d1a6445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '776800cd7810ca3014a8961a081998b9') in 0.007713 seconds
+  Import took 0.009290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_tree_01.FBX
+  artifactKey: Guid(675d7e29457a9dc49948bc60f3024cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_tree_01.FBX using Guid(675d7e29457a9dc49948bc60f3024cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93137b178dbe0bb5af5fe03ddc4918c') in 0.007216 seconds
+  Import took 0.008655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_stone_01.FBX
+  artifactKey: Guid(7a00075224fdb4041b450968bd83cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_stone_01.FBX using Guid(7a00075224fdb4041b450968bd83cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2707b68ef5bcb46e3f974e2113ea4c96') in 0.007679 seconds
+  Import took 0.009071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_stone_02.FBX
+  artifactKey: Guid(4b333372d5cfbe54cafbecf3ced0a55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_stone_02.FBX using Guid(4b333372d5cfbe54cafbecf3ced0a55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3f9aed5843dfc3ee772da619f507bd') in 0.008074 seconds
+  Import took 0.009596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_bush_02.FBX
+  artifactKey: Guid(ecd096e500a3582478fa38892c8c3a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_bush_02.FBX using Guid(ecd096e500a3582478fa38892c8c3a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6202565f19651fa62dd321acaedd8ec8') in 0.007237 seconds
+  Import took 0.008733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_tree_02.FBX
+  artifactKey: Guid(6b76483e5d225db46b282c88ff311a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Nature/sptp_tree_02.FBX using Guid(6b76483e5d225db46b282c88ff311a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8d8d876ec85ba3addde9e7c3f95f08') in 0.008433 seconds
+  Import took 0.009905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.073269 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_01.FBX
+  artifactKey: Guid(aa44ac0d867342d4b90d4b81b2c31902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_01.FBX using Guid(aa44ac0d867342d4b90d4b81b2c31902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b669509bb7f30d635cb68cb1a1fac208') in 0.007893 seconds
+  Import took 0.009685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_04.FBX
+  artifactKey: Guid(ba0a45d3aaf0a81499a99a90eca1ef66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_04.FBX using Guid(ba0a45d3aaf0a81499a99a90eca1ef66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25065c402438e38e94dbeb1e9347cb12') in 0.014997 seconds
+  Import took 0.016419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_traffic_light_01.FBX
+  artifactKey: Guid(7e9186a9f4f27d744b0f8d0c2be3118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_traffic_light_01.FBX using Guid(7e9186a9f4f27d744b0f8d0c2be3118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffdb08035993d2dbc7b7ce7c5ee6ade5') in 0.007991 seconds
+  Import took 0.009374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_electrical_panel_01.FBX
+  artifactKey: Guid(57f8968fab8a7a14fab08e1b6bec79e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_electrical_panel_01.FBX using Guid(57f8968fab8a7a14fab08e1b6bec79e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce8ea7e4e207a881f672622d0e148146') in 0.006930 seconds
+  Import took 0.008272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_street_light_02.FBX
+  artifactKey: Guid(99c8d99cb2b5cb747926f046a5dde01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_street_light_02.FBX using Guid(99c8d99cb2b5cb747926f046a5dde01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509b4d4d620e12bd8d2af315a92e074f') in 0.006362 seconds
+  Import took 0.007587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_billboard_02.FBX
+  artifactKey: Guid(21ed514b6a6f4454299668c2e767f285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_billboard_02.FBX using Guid(21ed514b6a6f4454299668c2e767f285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100d2da7ac91cbcd879378a2a0106fd5') in 0.006731 seconds
+  Import took 0.007882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_02.FBX
+  artifactKey: Guid(4d532fe2e4a25f44dbf3be2e2b66b7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_02.FBX using Guid(4d532fe2e4a25f44dbf3be2e2b66b7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0d70717f876777995e6c520d7fe79d') in 0.008131 seconds
+  Import took 0.009336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_03.FBX
+  artifactKey: Guid(b187c1eed8feb264285bb4bd3ec5fd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_air_conditioning_03.FBX using Guid(b187c1eed8feb264285bb4bd3ec5fd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2eec23f258f90bf04d463647724a271') in 0.012233 seconds
+  Import took 0.013467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_billboard_03.FBX
+  artifactKey: Guid(1c577a6dfd8c7134bbeb3b8e5a1c1c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_billboard_03.FBX using Guid(1c577a6dfd8c7134bbeb3b8e5a1c1c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578973dafceb50af7fd1942e94f2237a') in 0.007013 seconds
+  Import took 0.008223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_bin_02.FBX
+  artifactKey: Guid(794348e356afbc9429a87c32285abe67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_bin_02.FBX using Guid(794348e356afbc9429a87c32285abe67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60cd2b26eb2384c74e4cb6dac354797') in 0.006590 seconds
+  Import took 0.007770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_street_light_01.FBX
+  artifactKey: Guid(95afefffd34f34044a4e841043b58ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_street_light_01.FBX using Guid(95afefffd34f34044a4e841043b58ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3969c67ed2b97cc4df7ef02c74aead') in 0.006614 seconds
+  Import took 0.007901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_billboard_01.FBX
+  artifactKey: Guid(72b58c4dee9c06141869c041d64e3c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_billboard_01.FBX using Guid(72b58c4dee9c06141869c041d64e3c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b746fb5be0e3a97d1c862d6c62dbb4ae') in 0.007557 seconds
+  Import took 0.008731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_fire_hydrant_01.FBX
+  artifactKey: Guid(b5cc2844dd57c3344b4840ed177ba8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_fire_hydrant_01.FBX using Guid(b5cc2844dd57c3344b4840ed177ba8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694cbd693684f9db1fa5419a91d5db4e') in 0.008885 seconds
+  Import took 0.010196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_mail_box_01.FBX
+  artifactKey: Guid(7ab034c894dbe39408860a18216d047c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_mail_box_01.FBX using Guid(7ab034c894dbe39408860a18216d047c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ba5366d43f9d6686067c7aeb171ef1') in 0.007295 seconds
+  Import took 0.008601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_electrical_panel_02.FBX
+  artifactKey: Guid(9ec2e01710de09540b4394bf6dd126a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_electrical_panel_02.FBX using Guid(9ec2e01710de09540b4394bf6dd126a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a056f0375cfe89ab24709ec541fe356e') in 0.008437 seconds
+  Import took 0.009770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_dumpster_01.FBX
+  artifactKey: Guid(4fe93593c00d0274291366d8b0fb1691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_dumpster_01.FBX using Guid(4fe93593c00d0274291366d8b0fb1691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e67d5c2fec4d2a9bd8a0fcddfd2227') in 0.006693 seconds
+  Import took 0.007942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_bench_01.FBX
+  artifactKey: Guid(151f7904ab4d8be4e954433c0b869d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_bench_01.FBX using Guid(151f7904ab4d8be4e954433c0b869d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eefd8c004c4ef1ba0d430a61617ecd58') in 0.007327 seconds
+  Import took 0.008547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props/sptp_bin_01.FBX
+  artifactKey: Guid(551faa9f9e362aa4fb7abf44d3e7d1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props/sptp_bin_01.FBX using Guid(551faa9f9e362aa4fb7abf44d3e7d1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f426901c9dcd90190840869421ec1f') in 0.007008 seconds
+  Import took 0.008246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.941676 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_asphalt_01.FBX
+  artifactKey: Guid(b76dde2c2617a5e48a8bd54cd1607b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_asphalt_01.FBX using Guid(b76dde2c2617a5e48a8bd54cd1607b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87dfb2fe9bd5ff222530843c710c6bc2') in 0.007409 seconds
+  Import took 0.008960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_04.FBX
+  artifactKey: Guid(9e9b695703c2ae34bad111f2bfdcab8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_04.FBX using Guid(9e9b695703c2ae34bad111f2bfdcab8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b6f0a9c32778d201028891f99e4433') in 0.007291 seconds
+  Import took 0.008900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_14.FBX
+  artifactKey: Guid(68b02f11895f00249858bf3f85dd6389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_14.FBX using Guid(68b02f11895f00249858bf3f85dd6389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707ce2194865c37d8f35cb6589baca01') in 0.009092 seconds
+  Import took 0.010529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_sidewalk_segment_01.FBX
+  artifactKey: Guid(d786bdb1dce731f428e5143f68c40e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_sidewalk_segment_01.FBX using Guid(d786bdb1dce731f428e5143f68c40e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3440754de9d253fccaacb0e8458612f1') in 0.007730 seconds
+  Import took 0.009249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_street_concrete_01.FBX
+  artifactKey: Guid(1c6059596d03b99459775930fd3a3ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_street_concrete_01.FBX using Guid(1c6059596d03b99459775930fd3a3ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa8b084a9f487967c47e82e6fa14f73') in 0.007006 seconds
+  Import took 0.008488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_street_concrete_02.FBX
+  artifactKey: Guid(6158d1a3191329a4c81f6f9e6c932e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_street_concrete_02.FBX using Guid(6158d1a3191329a4c81f6f9e6c932e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b764625e3b8631389e9c1cde31cd98') in 0.007097 seconds
+  Import took 0.008573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_07.FBX
+  artifactKey: Guid(54e17be56e3cb3b4aa2db1a265a99de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_07.FBX using Guid(54e17be56e3cb3b4aa2db1a265a99de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5476f73262c787faa2637fba1bbef4') in 0.007269 seconds
+  Import took 0.008648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_10.FBX
+  artifactKey: Guid(79b79febef25b0247a7e6c94abbfdc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_10.FBX using Guid(79b79febef25b0247a7e6c94abbfdc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcc441c06ed8d3122e006c22aa67c0c') in 0.006942 seconds
+  Import took 0.008342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_sidewalk_segment_03.FBX
+  artifactKey: Guid(c8f6bedd111843049866ffa538a9353a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_sidewalk_segment_03.FBX using Guid(c8f6bedd111843049866ffa538a9353a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41cae9aba47c2e30960500744c99a8d') in 0.006770 seconds
+  Import took 0.008156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_08.FBX
+  artifactKey: Guid(b62e5a4d301822e4abe0e6caa1b1cf13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_08.FBX using Guid(b62e5a4d301822e4abe0e6caa1b1cf13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ff8edc4dc1779dfabe5d7a1266ed03') in 0.007440 seconds
+  Import took 0.008892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_03.FBX
+  artifactKey: Guid(60ea5aa8e413e0c4da288360a21322ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_03.FBX using Guid(60ea5aa8e413e0c4da288360a21322ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '090c072e402f559e5ef27cd4d84951ca') in 0.009179 seconds
+  Import took 0.010612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_01.FBX
+  artifactKey: Guid(688fc85776e788145b660feb70e614cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_01.FBX using Guid(688fc85776e788145b660feb70e614cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78bc06222d85ad8226d2a76190ac3371') in 0.007208 seconds
+  Import took 0.008698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_13.FBX
+  artifactKey: Guid(5659530fba9050e4b8a0f7c504513f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_13.FBX using Guid(5659530fba9050e4b8a0f7c504513f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d54cda4d6fb4dae3c46d1c1d676ef4') in 0.007093 seconds
+  Import took 0.008684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_02.FBX
+  artifactKey: Guid(d543c099e24880f49b1ab6616357be57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_02.FBX using Guid(d543c099e24880f49b1ab6616357be57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da71564174cad4d6ba744e9d5f251b66') in 0.007163 seconds
+  Import took 0.008752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_grass_01.FBX
+  artifactKey: Guid(efb2b0a9b07507e4cbb6bf1dddc6a6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_grass_01.FBX using Guid(efb2b0a9b07507e4cbb6bf1dddc6a6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bbe100c8c81f8ad28ae8ad57d2d46c') in 0.007538 seconds
+  Import took 0.009023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_09.FBX
+  artifactKey: Guid(619c5d00e1bdc764b9334763576d5586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_09.FBX using Guid(619c5d00e1bdc764b9334763576d5586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7822b77e5992b06c75cbb9b2181b8c52') in 0.007131 seconds
+  Import took 0.008712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_12.FBX
+  artifactKey: Guid(e6dbe7fef2d94f944918c06a16100b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_12.FBX using Guid(e6dbe7fef2d94f944918c06a16100b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e802227d528c0cdb358a7fca697e4395') in 0.006973 seconds
+  Import took 0.008588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_sidewalk_segment_02.FBX
+  artifactKey: Guid(12deb1b06e0aa70488c239a98c217717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_sidewalk_segment_02.FBX using Guid(12deb1b06e0aa70488c239a98c217717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049ca282af857e1685e3e870bea8a07d') in 0.007218 seconds
+  Import took 0.008576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_06.FBX
+  artifactKey: Guid(c04cf0961c4089f4c95bb344d45dc4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_06.FBX using Guid(c04cf0961c4089f4c95bb344d45dc4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f70bd3d0c00de93d8138177cd2b51b') in 0.009027 seconds
+  Import took 0.010566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_11.FBX
+  artifactKey: Guid(f430072039b71194eb0412e76bc0eafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_11.FBX using Guid(f430072039b71194eb0412e76bc0eafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef279ff5773d9e506e901ad23d89a91') in 0.006866 seconds
+  Import took 0.008390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_15.FBX
+  artifactKey: Guid(007468d4054b0084c91521810ad33be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_15.FBX using Guid(007468d4054b0084c91521810ad33be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a13d178ba3389532d979b9fdca3ce1') in 0.007001 seconds
+  Import took 0.008731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_05.FBX
+  artifactKey: Guid(efa3b8ec433cd7d43b94e4411aae825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments/sptp_road_segment_05.FBX using Guid(efa3b8ec433cd7d43b94e4411aae825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d61e0a8a7e41953defc31a469beb042') in 0.007835 seconds
+  Import took 0.009302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.571314 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_01.prefab
+  artifactKey: Guid(85c5ecd5a01f542499944cbfe9dd1cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_01.prefab using Guid(85c5ecd5a01f542499944cbfe9dd1cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e1c89179f4077927e2a557c9584b49') in 0.143456 seconds
+  Import took 0.147815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_05.prefab
+  artifactKey: Guid(376c64c4248da1c478df047404ec6663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_05.prefab using Guid(376c64c4248da1c478df047404ec6663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f8042f5f362fe204f31ac15326b03b') in 0.040235 seconds
+  Import took 0.043380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_23.prefab
+  artifactKey: Guid(8c61acc35acbd6d489977c81317f86f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_23.prefab using Guid(8c61acc35acbd6d489977c81317f86f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86066fe6e38c109c1d39e2641dcbbe5') in 0.039536 seconds
+  Import took 0.042631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_25.prefab
+  artifactKey: Guid(7538a3c85f736c74ea56d203349fde92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_25.prefab using Guid(7538a3c85f736c74ea56d203349fde92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130027b027e771666e2593b07f71a791') in 0.041052 seconds
+  Import took 0.044245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_33.prefab
+  artifactKey: Guid(d8772bbb1824d4648bb0c706baaceb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_33.prefab using Guid(d8772bbb1824d4648bb0c706baaceb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47ce380d3e1595af7b9c016eade39e7') in 0.038538 seconds
+  Import took 0.041562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_20.prefab
+  artifactKey: Guid(21d87f071ff58334bafd1d0529a95433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_20.prefab using Guid(21d87f071ff58334bafd1d0529a95433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bdb052225163b338b190ee3b173635') in 0.038552 seconds
+  Import took 0.041729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_17.prefab
+  artifactKey: Guid(c578b4309ba7d374a81ecb4ead9452b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_17.prefab using Guid(c578b4309ba7d374a81ecb4ead9452b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bc9424439117fac5ff301a2f973c3f') in 0.033881 seconds
+  Import took 0.037275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_12.prefab
+  artifactKey: Guid(fa1f7e3bec326074c8e0ba873be41681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_12.prefab using Guid(fa1f7e3bec326074c8e0ba873be41681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26da24d0ec8a8f90d950707c83f1fc0') in 0.038319 seconds
+  Import took 0.041434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_11.prefab
+  artifactKey: Guid(edfc85d2272c60b49beb757027f79980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_11.prefab using Guid(edfc85d2272c60b49beb757027f79980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d18699805b6b0f31683d347546b249') in 0.038371 seconds
+  Import took 0.041454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_21.prefab
+  artifactKey: Guid(8ff373953893b2c44968fbf1e5c2d186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_21.prefab using Guid(8ff373953893b2c44968fbf1e5c2d186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036edfcbd377f001b0a1f579ff07b737') in 0.039605 seconds
+  Import took 0.042766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_04.prefab
+  artifactKey: Guid(0d41f7c400e70b14784c7dc6996384f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_04.prefab using Guid(0d41f7c400e70b14784c7dc6996384f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e88004f378923ec3d83482432f42ed') in 0.038884 seconds
+  Import took 0.041976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_09.prefab
+  artifactKey: Guid(f7b79bbc99e117943ab5fb1dd6330136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_09.prefab using Guid(f7b79bbc99e117943ab5fb1dd6330136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3067aa99cbf885a0db3237741dc7111') in 0.038044 seconds
+  Import took 0.041174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_13.prefab
+  artifactKey: Guid(7af3e402376047a46842073f130d347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_13.prefab using Guid(7af3e402376047a46842073f130d347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7766c3dc652544aad2f86d4f79d4c9e') in 0.038499 seconds
+  Import took 0.041602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_32.prefab
+  artifactKey: Guid(e3e68252ae8afc94a82589696a7c236c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_32.prefab using Guid(e3e68252ae8afc94a82589696a7c236c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a560af8037852e05a5a6bcfe0eacc0') in 0.040025 seconds
+  Import took 0.043663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_07.prefab
+  artifactKey: Guid(4de73b6418e85f643bcd3c2edb0dfe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_07.prefab using Guid(4de73b6418e85f643bcd3c2edb0dfe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e1834790c4ad68f3322f0af50f581d') in 0.039245 seconds
+  Import took 0.042508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_18.prefab
+  artifactKey: Guid(a03a9df0edb623a4095e3b307f481082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_18.prefab using Guid(a03a9df0edb623a4095e3b307f481082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c905b5b8daa317380cb67613d4cfc6b') in 0.039259 seconds
+  Import took 0.042441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_19.prefab
+  artifactKey: Guid(b31bfd856a422204b9e585c888f2cc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_19.prefab using Guid(b31bfd856a422204b9e585c888f2cc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d9bb56ca5b3a2dc5f5ed6cc519a2d2') in 0.038375 seconds
+  Import took 0.041554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_29.prefab
+  artifactKey: Guid(b0c1f1679136b9a47960b48b5e0f5b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_29.prefab using Guid(b0c1f1679136b9a47960b48b5e0f5b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b037e25f92984e402f97d24c75525c') in 0.040009 seconds
+  Import took 0.043181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_03.prefab
+  artifactKey: Guid(3247a876b9df76e4187d8ddffa5028cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_03.prefab using Guid(3247a876b9df76e4187d8ddffa5028cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef318ae24bb8ded2971c272285161995') in 0.038550 seconds
+  Import took 0.041645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_08.prefab
+  artifactKey: Guid(30e2a587c4604ce43802c7a63b6638ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_08.prefab using Guid(30e2a587c4604ce43802c7a63b6638ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ac5d32bd193a192ff37152448c52c5') in 0.033702 seconds
+  Import took 0.036771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_30.prefab
+  artifactKey: Guid(6a03abf06fc3f154abc371fa4e38f7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_30.prefab using Guid(6a03abf06fc3f154abc371fa4e38f7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fabf513698a823cddc91620affa5d8d5') in 0.038365 seconds
+  Import took 0.041474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_31.prefab
+  artifactKey: Guid(219b2a76565a01240a8f893539b9309a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_31.prefab using Guid(219b2a76565a01240a8f893539b9309a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2a7cbf647c40e2c3833840e24a924d') in 0.039264 seconds
+  Import took 0.042430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_26.prefab
+  artifactKey: Guid(12e574493ffa82e478d1852f78156fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_26.prefab using Guid(12e574493ffa82e478d1852f78156fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf17c452982154c90b4f536a7a346674') in 0.037534 seconds
+  Import took 0.040575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_10.prefab
+  artifactKey: Guid(6d7985f8534d19e4b8c5bc52a92a075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_10.prefab using Guid(6d7985f8534d19e4b8c5bc52a92a075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f463dac493d2b47765c6a91c65f11598') in 0.040097 seconds
+  Import took 0.043140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_15.prefab
+  artifactKey: Guid(73121aa02ef2a1b42915f5842503a4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_15.prefab using Guid(73121aa02ef2a1b42915f5842503a4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d32cbc758e684494d8f41b5b01ebe3') in 0.039618 seconds
+  Import took 0.042729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_22.prefab
+  artifactKey: Guid(6f3f63053e017f4438955201b55656e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_22.prefab using Guid(6f3f63053e017f4438955201b55656e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86986c322b2c87ac66d75ba471504193') in 0.037919 seconds
+  Import took 0.041055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_02.prefab
+  artifactKey: Guid(0876618a1528b3c439a2dfb8aa96f9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_02.prefab using Guid(0876618a1528b3c439a2dfb8aa96f9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a509891871fed5a71d410f4ff5f47b7e') in 0.038795 seconds
+  Import took 0.041987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_14.prefab
+  artifactKey: Guid(7ad2e20841a11954f8a84f88e5175cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_14.prefab using Guid(7ad2e20841a11954f8a84f88e5175cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd836faf4ba8e840c7eb9cd17fd82d8e1') in 0.039111 seconds
+  Import took 0.042217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_27.prefab
+  artifactKey: Guid(3efdc64e734336845816936e77dbf6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_27.prefab using Guid(3efdc64e734336845816936e77dbf6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c268e942db69ffc74a75db3e295ce3') in 0.039944 seconds
+  Import took 0.043120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_16.prefab
+  artifactKey: Guid(a9b79d749ced56c4e8b559a4f12d0a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_16.prefab using Guid(a9b79d749ced56c4e8b559a4f12d0a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a6070646dd9a12fac72fefa1f3b1f3') in 0.038936 seconds
+  Import took 0.042079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_24.prefab
+  artifactKey: Guid(d9c2a6cb99ea45945b24d88f8b8e88ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_24.prefab using Guid(d9c2a6cb99ea45945b24d88f8b8e88ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae06bad4a57119c165c198cd7d196c7') in 0.038275 seconds
+  Import took 0.041358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_06.prefab
+  artifactKey: Guid(d626666846aaa4740be705007a456295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_06.prefab using Guid(d626666846aaa4740be705007a456295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c8548f2df946e76e0e2bc67ee3dda2') in 0.038348 seconds
+  Import took 0.041402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_28.prefab
+  artifactKey: Guid(09676f1ba84ec5d48912d47723cefe7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_28.prefab using Guid(09676f1ba84ec5d48912d47723cefe7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e449d1fb7bd6690bfc3d6bc61688adb') in 0.040846 seconds
+  Import took 0.043943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.639216 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0dd8c018c451bceae1e1302a1531463') in 0.003200 seconds
+  Import took 0.004867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.752597 seconds.
+  path: Assets/SimplePoly - Town Pack/DemoScene/DemoScene.unity
+  artifactKey: Guid(d03355cb2b2cc99428f6e1bfb113b182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/DemoScene/DemoScene.unity using Guid(d03355cb2b2cc99428f6e1bfb113b182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbaa57e3353017edbd21f2cc6856e38') in 0.000988 seconds
+  Import took 0.002583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.588031 seconds.
+  path: Assets/SimplePoly - Town Pack/DemoScene/DemoSceneSettings.lighting
+  artifactKey: Guid(2114bf5708ad84ff1bc78ba0124485cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/DemoScene/DemoSceneSettings.lighting using Guid(2114bf5708ad84ff1bc78ba0124485cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '000e4995cae0b340b44c71360469d376') in 0.108396 seconds
+  Import took 0.110478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.931553 seconds.
+  path: Assets/SimplePoly - Town Pack/DemoScene/FlyCamera.cs
+  artifactKey: Guid(9e16294e1cb22c54e85a7120cfb67ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/DemoScene/FlyCamera.cs using Guid(9e16294e1cb22c54e85a7120cfb67ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4062b31b63fe9e4726d5fb6b06e3ff') in 0.281447 seconds
+  Import took 0.283083 seconds .
+

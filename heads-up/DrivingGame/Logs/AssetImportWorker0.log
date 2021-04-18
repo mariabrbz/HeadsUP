@@ -1,0 +1,2037 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/abbyliu/HackDarmouthProj/DrivingGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52994
+Successfully changed project path to: /Users/abbyliu/HackDarmouthProj/DrivingGame
+/Users/abbyliu/HackDarmouthProj/DrivingGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 17.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/abbyliu/HackDarmouthProj/DrivingGame/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-17 15:25:05.632 Unity[2339:135287] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
+2021-04-17 15:25:05.632 Unity[2339:135287] Metal devices available: 1
+2021-04-17 15:25:05.632 Unity[2339:135287] 0: AMD Radeon Pro 5500 XT (high power)
+2021-04-17 15:25:05.633 Unity[2339:135287] Using device AMD Radeon Pro 5500 XT (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500 XT
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56339
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000410 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 18.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.372 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000257 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.5 MB.
+System memory in use after: 109.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 2.677723 ms (FindLiveObjects: 0.204495 ms CreateObjectMapping: 0.062571 ms MarkObjects: 2.260307 ms  DeleteObjects: 0.149117 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SimplePoly - Town Pack
+  artifactKey: Guid(5b7ac2ff694e04e77bf7d3a5c78822e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack using Guid(5b7ac2ff694e04e77bf7d3a5c78822e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38d82c009cb786ef0770b0c2f00d525') in 0.003178 seconds
+  Import took 0.005298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.134796 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(7ccab774877854e608ab2ca221f71cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7ccab774877854e608ab2ca221f71cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabd1bcb83f95699fa9364943fcad81d') in 0.000973 seconds
+  Import took 0.002651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(7ccab774877854e608ab2ca221f71cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7ccab774877854e608ab2ca221f71cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabd1bcb83f95699fa9364943fcad81d') in 0.000478 seconds
+  Import took 0.001510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 246.002269 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Props
+  artifactKey: Guid(b8f68b3f08bc22b41a288edecbc6c238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Props using Guid(b8f68b3f08bc22b41a288edecbc6c238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a8770fa8dff20a90291cacd9dc7638') in 0.001659 seconds
+  Import took 0.006074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 343.216972 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/RoadSegments
+  artifactKey: Guid(6ec8fd0b89c0aa7428e209037e82a782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/RoadSegments using Guid(6ec8fd0b89c0aa7428e209037e82a782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f253078a0300bfbb80fc0cf0e41f6e') in 0.001896 seconds
+  Import took 0.003637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 693.875700 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(03b3fab054e874086a247d068f77027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(03b3fab054e874086a247d068f77027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e36cd132612b008989ff24aaaf6775') in 0.501145 seconds
+  Import took 0.502916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 668.436868 seconds.
+  path: Assets/SimplePoly - Town Pack/Materials/New Material.mat
+  artifactKey: Guid(03b3fab054e874086a247d068f77027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Materials/New Material.mat using Guid(03b3fab054e874086a247d068f77027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e2fd8507191f72fe6de40912ca13fb') in 0.010982 seconds
+  Import took 0.012844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.688935 seconds.
+  path: Assets/CS - Signs Free/Demo Scene.unity
+  artifactKey: Guid(3e8d65928e5ea1c468f0dd58f30d3718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Demo Scene.unity using Guid(3e8d65928e5ea1c468f0dd58f30d3718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c82938ff11753e6275c3d0fd496693') in 0.000954 seconds
+  Import took 0.002708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.490880 seconds.
+  path: Assets/CS - Signs Free/Materials
+  artifactKey: Guid(de93af7a3cac3354db27a20321d844a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials using Guid(de93af7a3cac3354db27a20321d844a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aeb18bcd42db27b5bb8a1a67cb24b45') in 0.001700 seconds
+  Import took 0.003182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065751 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign Backing.mat
+  artifactKey: Guid(3b1eceb6bfe85c24c9add49ea4ceb70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign Backing.mat using Guid(3b1eceb6bfe85c24c9add49ea4ceb70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd638a45938f036b9fd36a3afcf015acb') in 0.328731 seconds
+  Import took 0.330571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_2_Hour_Parking_2.mat
+  artifactKey: Guid(9741d7188c464414cbeea11b66882a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_2_Hour_Parking_2.mat using Guid(9741d7188c464414cbeea11b66882a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb34556377624bf9eb1956284b5c0844') in 0.106981 seconds
+  Import took 0.108678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign Post 1.mat
+  artifactKey: Guid(426f2d4b04161ab40a2a25400c64daea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign Post 1.mat using Guid(426f2d4b04161ab40a2a25400c64daea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e199d7966c74ff74ecb27a7e396d5875') in 0.345850 seconds
+  Import took 0.347547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Speed_55.mat
+  artifactKey: Guid(1bfab1bfd3233e0429149ec5f820756f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Speed_55.mat using Guid(1bfab1bfd3233e0429149ec5f820756f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4d3cb3f0f9b0da746f16a82c4e36c1') in 0.203943 seconds
+  Import took 0.205683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Stop.mat
+  artifactKey: Guid(81776fbc950a0b64f8842111b5bbe4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Stop.mat using Guid(81776fbc950a0b64f8842111b5bbe4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d80d99d0222d47a47acf965ca15657') in 0.009687 seconds
+  Import took 0.011465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Speed_40.mat
+  artifactKey: Guid(da3ef51917ccf8d4cbfda91491d25724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Speed_40.mat using Guid(da3ef51917ccf8d4cbfda91491d25724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1242185d14e0da3888297e4b6dd0c08') in 0.010127 seconds
+  Import took 0.012024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Right_Lane_Ends_2.mat
+  artifactKey: Guid(6e3473d8757eb6f4d8b23a11031d3ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Right_Lane_Ends_2.mat using Guid(6e3473d8757eb6f4d8b23a11031d3ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c1c9f8cf19e99366993d4446aab305') in 0.010155 seconds
+  Import took 0.012092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Sharp_Right.mat
+  artifactKey: Guid(513eb31a252fecf44825bb87620870b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Sharp_Right.mat using Guid(513eb31a252fecf44825bb87620870b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3f5ca8e1d05e0aa9a76a4f66cd7957') in 0.009831 seconds
+  Import took 0.011586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_One_Way_R1.mat
+  artifactKey: Guid(b137f2b1308d0c94eb3d4504e5af7f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_One_Way_R1.mat using Guid(b137f2b1308d0c94eb3d4504e5af7f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2bbdb655cfd98c8dd2263b99c23048a') in 0.009150 seconds
+  Import took 0.010988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Roundabout.mat
+  artifactKey: Guid(82b890d807be8674eb7baf40ae85c0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Roundabout.mat using Guid(82b890d807be8674eb7baf40ae85c0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c16f0e9696f1a37d1b7381bd2c3b4c2') in 0.011160 seconds
+  Import took 0.013053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Sideroad_T.mat
+  artifactKey: Guid(8297fc3fbb4d26140825a2de6302efac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Sideroad_T.mat using Guid(8297fc3fbb4d26140825a2de6302efac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb6a6723ee5b23905948198110cb3da') in 0.010038 seconds
+  Import took 0.011817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_No_Right_Turn.mat
+  artifactKey: Guid(8a75dc6d935789646895e5d7c43b4eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_No_Right_Turn.mat using Guid(8a75dc6d935789646895e5d7c43b4eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a929a3d4d99094910bea8bb3af6abf') in 0.009569 seconds
+  Import took 0.011354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Dead_End.mat
+  artifactKey: Guid(8d70c315511e16c49bedea321621ce01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Dead_End.mat using Guid(8d70c315511e16c49bedea321621ce01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc219b54f2465bd1ade3145c87b6501e') in 0.009761 seconds
+  Import took 0.011683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Added_Lane.mat
+  artifactKey: Guid(7e4b3a0e5a7371545b948f768dc7cdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Added_Lane.mat using Guid(7e4b3a0e5a7371545b948f768dc7cdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0998ca35cfea98c41629886ab1920d8') in 0.009778 seconds
+  Import took 0.011713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_No_Parking.mat
+  artifactKey: Guid(360fc8fe972ecba4383036637b03a3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_No_Parking.mat using Guid(360fc8fe972ecba4383036637b03a3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d10cde0db66d8b09a44a9a712373f1b') in 0.010090 seconds
+  Import took 0.011884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_2_Way_Street.mat
+  artifactKey: Guid(7583cd767586418479f63c34fdc629ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_2_Way_Street.mat using Guid(7583cd767586418479f63c34fdc629ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '125d9bc9056f05efdff83e6d94fb9aa3') in 0.009053 seconds
+  Import took 0.010825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Freeway_Exit_L.mat
+  artifactKey: Guid(e4305ecf3c231904c9c445d17f41cd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Freeway_Exit_L.mat using Guid(e4305ecf3c231904c9c445d17f41cd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '015f57868a17c98ac120d274ae1dfa12') in 0.011831 seconds
+  Import took 0.013589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Sharp_RL.mat
+  artifactKey: Guid(032be342c62a580488030c65df810006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Sharp_RL.mat using Guid(032be342c62a580488030c65df810006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27afa4f93288faa4b15bd5efe51a7c60') in 0.009126 seconds
+  Import took 0.011049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign Post 2.mat
+  artifactKey: Guid(21e41166e38858640b8a1617cdf428d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign Post 2.mat using Guid(21e41166e38858640b8a1617cdf428d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e98c97d04385dd7309d39b771ea166b') in 0.009056 seconds
+  Import took 0.010911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Crossroad.mat
+  artifactKey: Guid(13475b9445c488a43a0f698e6d3e7547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Crossroad.mat using Guid(13475b9445c488a43a0f698e6d3e7547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccef223e48a2b16f4a8f4ae2ef09a0e2') in 0.009428 seconds
+  Import took 0.011260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Right_Turn_Only.mat
+  artifactKey: Guid(6efd8800ee20fc04d942f601fe5883b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Right_Turn_Only.mat using Guid(6efd8800ee20fc04d942f601fe5883b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cae49ed2c80ba8d86ef0472686a89e1') in 0.010160 seconds
+  Import took 0.011953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Freeway_Exit.mat
+  artifactKey: Guid(b50abaeaa2166ab499e525f6104d4ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Freeway_Exit.mat using Guid(b50abaeaa2166ab499e525f6104d4ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c2576cd652c0da130e20f5177803a9') in 0.011373 seconds
+  Import took 0.013248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Do_Not_Enter.mat
+  artifactKey: Guid(ce77ea75c5d9e404eaca8e4be6a49410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Do_Not_Enter.mat using Guid(ce77ea75c5d9e404eaca8e4be6a49410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f1c500ad7002aee0d778b2b28f6af5') in 0.009194 seconds
+  Import took 0.011141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Ramp_30_MPH.mat
+  artifactKey: Guid(e8ed225807bd82e458a7d4607d05448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Ramp_30_MPH.mat using Guid(e8ed225807bd82e458a7d4607d05448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbbcfd1e37b48d5884695af4abaa760') in 0.010715 seconds
+  Import took 0.012504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Left_Turn_Only.mat
+  artifactKey: Guid(8d87b0bf69686f14784ee330f40151a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Left_Turn_Only.mat using Guid(8d87b0bf69686f14784ee330f40151a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92a74eb46793aefb25684d64f3a9a50') in 0.010561 seconds
+  Import took 0.012420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Roundabout_Chevron_3.mat
+  artifactKey: Guid(1041edb7d1bb70d4f91d487eef25c981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Roundabout_Chevron_3.mat using Guid(1041edb7d1bb70d4f91d487eef25c981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b2cf94efaa3c67c65d6281ae0227ac') in 0.009462 seconds
+  Import took 0.011238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_No_Left_Turn.mat
+  artifactKey: Guid(ab78c743d9e8329468ebdeda6c2e6f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_No_Left_Turn.mat using Guid(ab78c743d9e8329468ebdeda6c2e6f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903a9262fbb21de13857d1cb5ab20bd9') in 0.009132 seconds
+  Import took 0.011150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Speed_25.mat
+  artifactKey: Guid(eb33cabaec2c00b4db603eb3583d2489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Speed_25.mat using Guid(eb33cabaec2c00b4db603eb3583d2489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a61a0e52353b02f799906ab340b06be') in 0.010280 seconds
+  Import took 0.012166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Center_Lane_Turn_Only.mat
+  artifactKey: Guid(cdcf889be60c947428d210f405e92ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Center_Lane_Turn_Only.mat using Guid(cdcf889be60c947428d210f405e92ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834b254be56b96b0bc8576443955283f') in 0.009562 seconds
+  Import took 0.011328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Chevron.mat
+  artifactKey: Guid(85583f3f22b79064cafcec0dbdab1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Chevron.mat using Guid(85583f3f22b79064cafcec0dbdab1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de2ddbaacb948d64ab17a9bcb829f8c') in 0.010006 seconds
+  Import took 0.011790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Divided_Highway.mat
+  artifactKey: Guid(6dae8dae5903f744bbfa5a186213a349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Divided_Highway.mat using Guid(6dae8dae5903f744bbfa5a186213a349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da07f35d2f0620fabc4fe9da0f2ebc97') in 0.009700 seconds
+  Import took 0.011495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Hill.mat
+  artifactKey: Guid(ce8614cfa2f966844bda81f659d4d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Hill.mat using Guid(ce8614cfa2f966844bda81f659d4d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0728fa15f25962d95590c9d8ec51bf08') in 0.009527 seconds
+  Import took 0.011425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Merge.mat
+  artifactKey: Guid(c573ea5869bc9124fb15a22da6e1cc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Merge.mat using Guid(c573ea5869bc9124fb15a22da6e1cc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668d268aed3abd6034ded19c88efe7ac') in 0.009955 seconds
+  Import took 0.011839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_No_U_Turn.mat
+  artifactKey: Guid(6d67ceead3facc1429660a752932ac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_No_U_Turn.mat using Guid(6d67ceead3facc1429660a752932ac21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3daaabdeac69b29d24de8977e787b97a') in 0.009342 seconds
+  Import took 0.011250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Forward_Only.mat
+  artifactKey: Guid(7f29fd41015baa043a09c6e6b2423a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Forward_Only.mat using Guid(7f29fd41015baa043a09c6e6b2423a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010f92c7ea47858c8ffda17d0faec469') in 0.010163 seconds
+  Import took 0.012032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Forward_or_Right.mat
+  artifactKey: Guid(3ab64acc2dfb81d468735632d8d15116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Forward_or_Right.mat using Guid(3ab64acc2dfb81d468735632d8d15116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f973f5d9e4d383fd4de195081aa3e247') in 0.010682 seconds
+  Import took 0.012523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Slight_Right.mat
+  artifactKey: Guid(ba58422adeaa41945bead035fdaa9529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Slight_Right.mat using Guid(ba58422adeaa41945bead035fdaa9529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43438c709e4f9b1f020597158876f560') in 0.009761 seconds
+  Import took 0.011665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Speed_70.mat
+  artifactKey: Guid(bd35d217f4524ec42aaa60478ae51ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Speed_70.mat using Guid(bd35d217f4524ec42aaa60478ae51ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcf4980e73e4b7f379483ff02fd9fac') in 0.010342 seconds
+  Import took 0.012351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Keep_Right.mat
+  artifactKey: Guid(821ed55c2aa93824480ae40431ba0179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Keep_Right.mat using Guid(821ed55c2aa93824480ae40431ba0179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f36394e92e5e7f0d3c6bc8b79895ba1') in 0.010134 seconds
+  Import took 0.012053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Exit_40_MPH.mat
+  artifactKey: Guid(481b172aa477fb546b925d0f71e58155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Exit_40_MPH.mat using Guid(481b172aa477fb546b925d0f71e58155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf42a901651449d128c1cbb1be6b38c') in 0.010770 seconds
+  Import took 0.012576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Left_Turn_Yield_On_Green.mat
+  artifactKey: Guid(f9e73825d51f5f540b88016e271eb37f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Left_Turn_Yield_On_Green.mat using Guid(f9e73825d51f5f540b88016e271eb37f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc4431c2d1ae89a219267cfc1d6f4002') in 0.010710 seconds
+  Import took 0.012567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Ped_Xing.mat
+  artifactKey: Guid(aea92810f52555e468081a6f1609b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Ped_Xing.mat using Guid(aea92810f52555e468081a6f1609b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcb32d9dedd1e44afd72d51ff3cf2f4') in 0.009472 seconds
+  Import took 0.011335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Multilane_Use_8.mat
+  artifactKey: Guid(689b9ec66c2115143848705e4222d2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Multilane_Use_8.mat using Guid(689b9ec66c2115143848705e4222d2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56421962c4c36b03ad2cef034725a1c0') in 0.014216 seconds
+  Import took 0.015986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_One_Way_L1.mat
+  artifactKey: Guid(5f184f050e47cd14b8679c9f30b17d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_One_Way_L1.mat using Guid(5f184f050e47cd14b8679c9f30b17d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f6da3d165e9dcb9eeca8db47bd20f1') in 0.009413 seconds
+  Import took 0.011320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_RL.mat
+  artifactKey: Guid(e1911560ea76d6f47b168331cda83787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_RL.mat using Guid(e1911560ea76d6f47b168331cda83787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d99eaa42cb18c7c7a2932755190f1f') in 0.009749 seconds
+  Import took 0.011786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Clearance_12_6.mat
+  artifactKey: Guid(b61181f3729a3e040a703cbc52b056e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Clearance_12_6.mat using Guid(b61181f3729a3e040a703cbc52b056e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1949de4ab84d7dfa5f3878e7884f0f8e') in 0.009958 seconds
+  Import took 0.011810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.180473 seconds.
+  path: Assets/CS - Signs Free/Materials/Sign_Yield.mat
+  artifactKey: Guid(40c782e4f521f2942b87211cf85ef75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Sign_Yield.mat using Guid(40c782e4f521f2942b87211cf85ef75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d778c6564ffb8a56af02b3422657efb') in 0.010030 seconds
+  Import took 0.011965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/CS - Signs Free/Materials/Tab_25_MPH.mat
+  artifactKey: Guid(5d0058901d3838142ab1ca0b61e30d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Tab_25_MPH.mat using Guid(5d0058901d3838142ab1ca0b61e30d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebb20cdc3f2f4c848619891182931cc') in 0.010518 seconds
+  Import took 0.012341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/CS - Signs Free/Materials/St_Main.mat
+  artifactKey: Guid(98fb09df2fdc03046ac7a8be983e4667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/St_Main.mat using Guid(98fb09df2fdc03046ac7a8be983e4667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beba530ef8c3e482df7a39ccbbbbffcd') in 0.009300 seconds
+  Import took 0.011143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/CS - Signs Free/Materials/St_1st.mat
+  artifactKey: Guid(35ee11bdb50cc354e898647bd4b202ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/St_1st.mat using Guid(35ee11bdb50cc354e898647bd4b202ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ca829a44077b345aab0993d7ae1630') in 0.009018 seconds
+  Import took 0.010858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/CS - Signs Free/Materials/Tab_Ahead.mat
+  artifactKey: Guid(6448643b4e7b4a54a960905542fa88a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Tab_Ahead.mat using Guid(6448643b4e7b4a54a960905542fa88a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27752f5576ddbe4526382b4f4b235a69') in 0.008569 seconds
+  Import took 0.010352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/CS - Signs Free/Materials/St_Sunset.mat
+  artifactKey: Guid(a930ada68f5e17e43a223c946367fc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/St_Sunset.mat using Guid(a930ada68f5e17e43a223c946367fc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8880b90cedd70b059d59d072bdefef7e') in 0.009643 seconds
+  Import took 0.011468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/CS - Signs Free/Materials/Tab_45_MPH.mat
+  artifactKey: Guid(d05bc0ac9ccb3b741a3018c3dc2a001c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Tab_45_MPH.mat using Guid(d05bc0ac9ccb3b741a3018c3dc2a001c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57cc9fc413701538b0948b5cbdacc307') in 0.008871 seconds
+  Import took 0.010708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/CS - Signs Free/Materials/St_Airport_Way.mat
+  artifactKey: Guid(db42d5d8d5c6cd149b03127bc3430252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/St_Airport_Way.mat using Guid(db42d5d8d5c6cd149b03127bc3430252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38dcc37d67c1ff3de44d776614cad70e') in 0.009316 seconds
+  Import took 0.011187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Materials/Tab_Arrow_Diagonal.mat
+  artifactKey: Guid(546d8c9fa30854844aab58d3603a887d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Materials/Tab_Arrow_Diagonal.mat using Guid(546d8c9fa30854844aab58d3603a887d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94291e56d72f9d5b48562da736251ba3') in 0.008598 seconds
+  Import took 0.010391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 595.655504 seconds.
+  path: Assets/CS - Signs Free/Models/Sign Backing Oct.fbx
+  artifactKey: Guid(b65e065feb817414fbf465e1c3aedf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Sign Backing Oct.fbx using Guid(b65e065feb817414fbf465e1c3aedf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '161691fa594334aeb94e76302926184d') in 0.225469 seconds
+  Import took 0.227153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/CS - Signs Free/Models/Sign Post 1.fbx
+  artifactKey: Guid(6c54a41495e09404d9a42ac0af8d6174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Sign Post 1.fbx using Guid(6c54a41495e09404d9a42ac0af8d6174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3f1df216024c064813315489d3aed6') in 0.047473 seconds
+  Import took 0.048986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/CS - Signs Free/Models/Sign Post 2.fbx
+  artifactKey: Guid(4f5e4c799d600804f8460ae78f16fdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Sign Post 2.fbx using Guid(4f5e4c799d600804f8460ae78f16fdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354739a6a3a604752cc11a94be5e0212') in 0.009671 seconds
+  Import took 0.011478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Models/Sign Backing.fbx
+  artifactKey: Guid(bf0e0b8fe71c14448a21fb3412beb3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Sign Backing.fbx using Guid(bf0e0b8fe71c14448a21fb3412beb3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d2520ac4140b3da10b475d4a17cc149') in 0.034466 seconds
+  Import took 0.035956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/CS - Signs Free/Models/Sign Backing Tri.fbx
+  artifactKey: Guid(c7d85bb9bb9576c4eabef9e0d235f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Sign Backing Tri.fbx using Guid(c7d85bb9bb9576c4eabef9e0d235f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e607b6a63c99340f3acaa146e1af4df') in 0.023141 seconds
+  Import took 0.024561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002279 seconds.
+  path: Assets/CS - Signs Free/Models/Sign Backing Tri.fbx
+  artifactKey: Guid(c7d85bb9bb9576c4eabef9e0d235f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Sign Backing Tri.fbx using Guid(c7d85bb9bb9576c4eabef9e0d235f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e607b6a63c99340f3acaa146e1af4df') in 0.030195 seconds
+  Import took 0.031668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.002788 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign Backing.png
+  artifactKey: Guid(7ac9ba4feda784045b8b80b4f476669e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign Backing.png using Guid(7ac9ba4feda784045b8b80b4f476669e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c714522772741d8930f7cba3ba65c56') in 0.223874 seconds
+  Import took 0.225879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Crossroad.png
+  artifactKey: Guid(f7ed165a130cfff4c84fe83fcf6127ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Crossroad.png using Guid(f7ed165a130cfff4c84fe83fcf6127ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8cdc8b2838829567e3c2e935ea59a4') in 0.009416 seconds
+  Import took 0.010914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Merge.png
+  artifactKey: Guid(48f03a698ce797143bd7ab6b1289c983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Merge.png using Guid(48f03a698ce797143bd7ab6b1289c983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0b8cc17fd9589094302fd84497b6b1') in 0.009204 seconds
+  Import took 0.010691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_RL.png
+  artifactKey: Guid(31d43e0fe257f174dbe9db2557844781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_RL.png using Guid(31d43e0fe257f174dbe9db2557844781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702bf7ced923b3bd00030e79c6db49a3') in 0.007456 seconds
+  Import took 0.008883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Do_Not_Enter.png
+  artifactKey: Guid(0fe0513829e31924a9507204c621ff9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Do_Not_Enter.png using Guid(0fe0513829e31924a9507204c621ff9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56891bfccb211c50f8cec92ca6aa546d') in 0.008498 seconds
+  Import took 0.010000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Chevron.png
+  artifactKey: Guid(bc5b626e67ce2554c82176b1e303bb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Chevron.png using Guid(bc5b626e67ce2554c82176b1e303bb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e7fdf019883eaf8ebeed2f2315953c') in 0.008855 seconds
+  Import took 0.010350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Right_Turn_Only.png
+  artifactKey: Guid(5d95e70f262d74440a70d23897160c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Right_Turn_Only.png using Guid(5d95e70f262d74440a70d23897160c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13aa58bbb4b1ce8a58321ef8eb39df3') in 0.011309 seconds
+  Import took 0.012736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign Post 2.png
+  artifactKey: Guid(0ce059b1e49402c438f60468b178c270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign Post 2.png using Guid(0ce059b1e49402c438f60468b178c270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a6725c0da460b1b085ddd368e087a7') in 0.006368 seconds
+  Import took 0.007894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Right_Lane_Ends_2.png
+  artifactKey: Guid(fd1fd1e9e9cbbed4eadcb00685079e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Right_Lane_Ends_2.png using Guid(fd1fd1e9e9cbbed4eadcb00685079e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da16693d4c541615ce2f729c74b56bcf') in 0.007803 seconds
+  Import took 0.009285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Freeway_Exit_L.png
+  artifactKey: Guid(91c76fd8f46d916468b0e5d1082e477f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Freeway_Exit_L.png using Guid(91c76fd8f46d916468b0e5d1082e477f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3909dad474475b9d72d9e3864f7e0bdd') in 0.009641 seconds
+  Import took 0.011102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_One_Way_L1.png
+  artifactKey: Guid(a60fb6d48f5d26d498d83a121f5e1254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_One_Way_L1.png using Guid(a60fb6d48f5d26d498d83a121f5e1254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ae22cf8b8bf6f6de0d4c0c3983b0ea') in 0.007845 seconds
+  Import took 0.009280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Ramp_30_MPH.png
+  artifactKey: Guid(01aa67e01603fbf478d348e6680edfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Ramp_30_MPH.png using Guid(01aa67e01603fbf478d348e6680edfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157c21086c509b6fc3839324dd74a4fe') in 0.008530 seconds
+  Import took 0.010301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Hill.png
+  artifactKey: Guid(530625939a4c3544aa34b8dcdf1dcd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Hill.png using Guid(530625939a4c3544aa34b8dcdf1dcd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac7439f801ce9e3c9b0a549857385d3d') in 0.008377 seconds
+  Import took 0.009803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_No_Right_Turn.png
+  artifactKey: Guid(95f5a3cf1041f2642b8d070d46d05d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_No_Right_Turn.png using Guid(95f5a3cf1041f2642b8d070d46d05d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f442d56de3ca03bf421e6098d1ca445') in 0.007789 seconds
+  Import took 0.009328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Dead_End.png
+  artifactKey: Guid(8b53f9243a851e5458f97f36e312ab73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Dead_End.png using Guid(8b53f9243a851e5458f97f36e312ab73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ea2a2d877715bd3cff254597e4391c') in 0.009671 seconds
+  Import took 0.011203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_One_Way_R1.png
+  artifactKey: Guid(2d036f1a8fd1c1b4d9d34146581e004e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_One_Way_R1.png using Guid(2d036f1a8fd1c1b4d9d34146581e004e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4e022e6ed67bbf2598b6bab3a03be1') in 0.007909 seconds
+  Import took 0.009331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Center_Lane_Turn_Only.png
+  artifactKey: Guid(210058561802e574c967678fbd4bf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Center_Lane_Turn_Only.png using Guid(210058561802e574c967678fbd4bf8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab15b93f331b8b771b3deea8e69101e') in 0.009795 seconds
+  Import took 0.011452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Forward_Only.png
+  artifactKey: Guid(69d84cd0b5f5b654bbc7ae77cd91953e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Forward_Only.png using Guid(69d84cd0b5f5b654bbc7ae77cd91953e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b96425560ec1429bb059891afb14f3') in 0.008741 seconds
+  Import took 0.010228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Ped_Xing.png
+  artifactKey: Guid(a00b26721cf8fc14e8724e1c25584d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Ped_Xing.png using Guid(a00b26721cf8fc14e8724e1c25584d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b30ba28880e78722ae6579c61066c3') in 0.008414 seconds
+  Import took 0.009941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Clearance_12_6.png
+  artifactKey: Guid(1a09114e8edffb448a8a4dcdea46ef8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Clearance_12_6.png using Guid(1a09114e8edffb448a8a4dcdea46ef8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a032685bbbda4e657c714bb5472c8198') in 0.007720 seconds
+  Import took 0.009222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_No_U_Turn.png
+  artifactKey: Guid(0958074f15e09db4d841c16b9b03ca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_No_U_Turn.png using Guid(0958074f15e09db4d841c16b9b03ca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd3243e1ace4dddf591772c2ff0e381') in 0.007889 seconds
+  Import took 0.009447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_No_Left_Turn.png
+  artifactKey: Guid(13e9bb37c8cbb434ba35e8a62bb5e0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_No_Left_Turn.png using Guid(13e9bb37c8cbb434ba35e8a62bb5e0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3ed9c39cb39e2ae8478b8bef2aeef8') in 0.007825 seconds
+  Import took 0.009397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign Post 1.png
+  artifactKey: Guid(d60293a614c7b524980306a70be2f377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign Post 1.png using Guid(d60293a614c7b524980306a70be2f377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea854995332b1be9428529bdbb5d4f5') in 0.010838 seconds
+  Import took 0.012408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_2_Way_Street.png
+  artifactKey: Guid(4d771a7b36dc772428a4f7f97fdfa95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_2_Way_Street.png using Guid(4d771a7b36dc772428a4f7f97fdfa95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c96328d714ef39cb116ec48e8a4632') in 0.008198 seconds
+  Import took 0.009727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Freeway_Exit.png
+  artifactKey: Guid(79d5c991a86d34345991a3c2a9398b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Freeway_Exit.png using Guid(79d5c991a86d34345991a3c2a9398b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d9db306590e039402598aa89364b0c') in 0.011247 seconds
+  Import took 0.012769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Roundabout.png
+  artifactKey: Guid(c2dbc5425729a6646bb62bea7da33b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Roundabout.png using Guid(c2dbc5425729a6646bb62bea7da33b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d10920a64c8e905ae4b7e13fb27178') in 0.007912 seconds
+  Import took 0.009442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Divided_Highway.png
+  artifactKey: Guid(0443b1bbef11ff34e90de4d59a4c259b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Divided_Highway.png using Guid(0443b1bbef11ff34e90de4d59a4c259b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ac9b3f50f6a07c8ff3180270de5a73') in 0.009444 seconds
+  Import took 0.011013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Roundabout_Chevron_3.png
+  artifactKey: Guid(2d96ed1d7c6ebe349a98ba75a22ad483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Roundabout_Chevron_3.png using Guid(2d96ed1d7c6ebe349a98ba75a22ad483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1858aed0e49029874409d546080bf9') in 0.007373 seconds
+  Import took 0.008860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Keep_Right.png
+  artifactKey: Guid(2ba4b4cc278548b4ab2dfbeb42520d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Keep_Right.png using Guid(2ba4b4cc278548b4ab2dfbeb42520d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c94161fa1d9ba6cf1bfa35ccda7f51') in 0.009053 seconds
+  Import took 0.010610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_2_Hour_Parking_2.png
+  artifactKey: Guid(fceaf7b32410aa949bc87a94810d7a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_2_Hour_Parking_2.png using Guid(fceaf7b32410aa949bc87a94810d7a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e094d9260f5810c941c96e4419e2fc0') in 0.008701 seconds
+  Import took 0.010231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Exit_40_MPH.png
+  artifactKey: Guid(b0e478fdc02efff48be3d41770885238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Exit_40_MPH.png using Guid(b0e478fdc02efff48be3d41770885238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550c91df2ddd6693265a012009d17f46') in 0.012435 seconds
+  Import took 0.013975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Left_Turn_Yield_On_Green.png
+  artifactKey: Guid(6d789688551e57b41ae393d9a04d40c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Left_Turn_Yield_On_Green.png using Guid(6d789688551e57b41ae393d9a04d40c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c44f04516855a29df2d469f470dff7') in 0.008891 seconds
+  Import took 0.010387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Left_Turn_Only.png
+  artifactKey: Guid(0e82702250b51a149b86ecdbb7b06d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Left_Turn_Only.png using Guid(0e82702250b51a149b86ecdbb7b06d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681af8b18ce4fff5f372ce7c4f7fa16b') in 0.009154 seconds
+  Import took 0.010771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Multilane_Use_8.png
+  artifactKey: Guid(ba1ebd0cd97be85469b8c54fa8adf6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Multilane_Use_8.png using Guid(ba1ebd0cd97be85469b8c54fa8adf6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c510cb6370c55f94eca602207cd784c') in 0.017298 seconds
+  Import took 0.018970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_No_Parking.png
+  artifactKey: Guid(dfc06bb8e91598644a26cb50f852eec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_No_Parking.png using Guid(dfc06bb8e91598644a26cb50f852eec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615f52496c7855dbe3f992c37aa298b4') in 0.008925 seconds
+  Import took 0.010379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Added_Lane.png
+  artifactKey: Guid(09fe66a25a6fff0409d7e424c3c80b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Added_Lane.png using Guid(09fe66a25a6fff0409d7e424c3c80b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a38a53370dcb458e4612069828f213') in 0.009704 seconds
+  Import took 0.011188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Forward_or_Right.png
+  artifactKey: Guid(b32644e0f5f446447a5ec514cd7abada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Forward_or_Right.png using Guid(b32644e0f5f446447a5ec514cd7abada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ea16717390297e2f361b9bf76d2ecf') in 0.008655 seconds
+  Import took 0.010156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.082572 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Sharp_Right.png
+  artifactKey: Guid(58e7557ba59d5594ca49667ddcc36d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Sharp_Right.png using Guid(58e7557ba59d5594ca49667ddcc36d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c122eb8391e3fe2ed61aeac66ba851') in 0.007991 seconds
+  Import took 0.009606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Slight_Right.png
+  artifactKey: Guid(ba46f6c24c8ec304ca346cb5be9f4c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Slight_Right.png using Guid(ba46f6c24c8ec304ca346cb5be9f4c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2873d4856253d25bf07cf1b359bf4e17') in 0.011100 seconds
+  Import took 0.012899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Speed_70.png
+  artifactKey: Guid(167f88fd46ab4e94ba4d1b1a2c49013a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Speed_70.png using Guid(167f88fd46ab4e94ba4d1b1a2c49013a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d215ee0c9b114fd902690ecff304a9') in 0.010889 seconds
+  Import took 0.012920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Speed_25.png
+  artifactKey: Guid(1ec3458ab41f09048ac077a075cd74d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Speed_25.png using Guid(1ec3458ab41f09048ac077a075cd74d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f7de2d3f8a9a9c69a5fe1c83d9f638') in 0.013323 seconds
+  Import took 0.015467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Stop.png
+  artifactKey: Guid(8e8ea02fe4dc824418e354d51d186cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Stop.png using Guid(8e8ea02fe4dc824418e354d51d186cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'facc93cb239a11c7d3a886ed79f561a7') in 0.011256 seconds
+  Import took 0.013476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Sharp_RL.png
+  artifactKey: Guid(92bd29f524332e6459040feeafceebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Sharp_RL.png using Guid(92bd29f524332e6459040feeafceebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3ef5d039002660a7dd1c2e27a938aa') in 0.010662 seconds
+  Import took 0.012275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Speed_55.png
+  artifactKey: Guid(ff2bc6c45494d0245ad0cefd3308b700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Speed_55.png using Guid(ff2bc6c45494d0245ad0cefd3308b700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd50fc6bed22011f1433588b0b8b5e55') in 0.011745 seconds
+  Import took 0.013227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Speed_40.png
+  artifactKey: Guid(bd6a5bbc8478ba44da5b4887f9cf8303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Speed_40.png using Guid(bd6a5bbc8478ba44da5b4887f9cf8303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5048433927e751cb807f2ba65d96488') in 0.009168 seconds
+  Import took 0.010563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Sideroad_T.png
+  artifactKey: Guid(5d2b523e7232275449b79e97ee835fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Sideroad_T.png using Guid(5d2b523e7232275449b79e97ee835fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa074f68e3df87fea46fb1555f72a431') in 0.008088 seconds
+  Import took 0.009572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Sharp_Right.png
+  artifactKey: Guid(58e7557ba59d5594ca49667ddcc36d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Sharp_Right.png using Guid(58e7557ba59d5594ca49667ddcc36d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c122eb8391e3fe2ed61aeac66ba851') in 0.010041 seconds
+  Import took 0.011546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.375881 seconds.
+  path: Assets/CS - Signs Free/Textures/Sign_Yield.png
+  artifactKey: Guid(aeae639e3f67f53408e7e178b5af2152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Sign_Yield.png using Guid(aeae639e3f67f53408e7e178b5af2152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa7874c97c284cad616f3dc68355bc6a') in 0.010082 seconds
+  Import took 0.011862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/CS - Signs Free/Textures/St_Main.png
+  artifactKey: Guid(c5704fecdeed16149bec917cac0cd69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/St_Main.png using Guid(c5704fecdeed16149bec917cac0cd69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42749c6856b78fcdd93e695987189d07') in 0.008539 seconds
+  Import took 0.010114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/CS - Signs Free/Textures/St_1st.png
+  artifactKey: Guid(af986b308201e284495fa29de7eca0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/St_1st.png using Guid(af986b308201e284495fa29de7eca0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e47e565690bd6bd396bef4b394b950f') in 0.009285 seconds
+  Import took 0.011049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/CS - Signs Free/Textures/Tab_Ahead.png
+  artifactKey: Guid(700717c5c190323489788f46e1612642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Tab_Ahead.png using Guid(700717c5c190323489788f46e1612642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7929984576294dcdf7bd09ef385b10b0') in 0.007263 seconds
+  Import took 0.008823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Textures/Tab_Arrow_Diagonal.png
+  artifactKey: Guid(4b2f8414d576824409553b867264068e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Tab_Arrow_Diagonal.png using Guid(4b2f8414d576824409553b867264068e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bcdff3707f3da86a58b50485ab1930') in 0.010394 seconds
+  Import took 0.012052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Textures/St_Sunset.png
+  artifactKey: Guid(29173a595da662642b17ec48f93619ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/St_Sunset.png using Guid(29173a595da662642b17ec48f93619ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5910c4b83429cf13d5e90a4dad87892d') in 0.007604 seconds
+  Import took 0.009192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/CS - Signs Free/Textures/Tab_25_MPH.png
+  artifactKey: Guid(ea43b879bdf1db544a30dd2fb94996b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Tab_25_MPH.png using Guid(ea43b879bdf1db544a30dd2fb94996b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9728ca0ac0dc41fdaf7c3a422fc2b6f5') in 0.007902 seconds
+  Import took 0.009488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/CS - Signs Free/Textures/St_Airport_Way.png
+  artifactKey: Guid(cd438f1995a56d94788c6d66b5bda490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/St_Airport_Way.png using Guid(cd438f1995a56d94788c6d66b5bda490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9040b7103ba7aae13f38724dcd058eca') in 0.010089 seconds
+  Import took 0.011635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/CS - Signs Free/Textures/Tab_45_MPH.png
+  artifactKey: Guid(26048f6543d2c6949abd7816404ac75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Tab_45_MPH.png using Guid(26048f6543d2c6949abd7816404ac75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53339aa771fd8c52feba2e7eb6cf7abe') in 0.007830 seconds
+  Import took 0.009286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000764 seconds.
+  path: Assets/CS - Signs Free/Textures/Tab_45_MPH.png
+  artifactKey: Guid(26048f6543d2c6949abd7816404ac75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Textures/Tab_45_MPH.png using Guid(26048f6543d2c6949abd7816404ac75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53339aa771fd8c52feba2e7eb6cf7abe') in 0.007024 seconds
+  Import took 0.008593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1604.277482 seconds.
+  path: Packages/com.unity.ide.visualstudio
+  artifactKey: Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio using Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88e2b982fc27e94d597b665a7908122') in 0.001397 seconds
+  Import took 0.003931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Packages/com.unity.ide.visualstudio
+  artifactKey: Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio using Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88e2b982fc27e94d597b665a7908122') in 0.000478 seconds
+  Import took 0.002277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.970275 seconds.
+  path: Packages/com.unity.ide.visualstudio/package.json
+  artifactKey: Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/package.json using Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a165dfa2f3d93ea621b2a287f9d5006') in 0.184928 seconds
+  Import took 0.187438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.797344 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6c25fa368c3568fe15c6d7a4bda451') in 0.002080 seconds
+  Import took 0.003684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.088206 seconds.
+  path: Packages/com.unity.ide.vscode/package.json
+  artifactKey: Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/package.json using Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9672dff00af9e48b70ec7a152e425f01') in 0.002616 seconds
+  Import took 0.004130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.787082 seconds.
+  path: Packages/com.unity.collab-proxy/package.json
+  artifactKey: Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/package.json using Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86356b0bf77e1824896bd5e938827a53') in 0.002025 seconds
+  Import took 0.003492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.701927 seconds.
+  path: Packages/com.unity.timeline/package.json
+  artifactKey: Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/package.json using Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425bb9eb6746bc63509bda2dcbe703a2') in 0.002211 seconds
+  Import took 0.003888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.242140 seconds.
+  path: Packages/com.unity.timeline/Editor
+  artifactKey: Guid(9b4f21acd14fdd445b37b76f6587539e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor using Guid(9b4f21acd14fdd445b37b76f6587539e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfaa576ea444941e2298241012230ac') in 0.001943 seconds
+  Import took 0.003457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Packages/com.unity.timeline/Editor
+  artifactKey: Guid(9b4f21acd14fdd445b37b76f6587539e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor using Guid(9b4f21acd14fdd445b37b76f6587539e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfaa576ea444941e2298241012230ac') in 0.000491 seconds
+  Import took 0.001666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070152 seconds.
+  path: Packages/com.unity.timeline/Editor/Unity.Timeline.Editor.asmdef
+  artifactKey: Guid(02f771204943f4a40949438e873e3eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/Unity.Timeline.Editor.asmdef using Guid(02f771204943f4a40949438e873e3eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e161e8d5119e57b97471ab06b58990') in 0.119647 seconds
+  Import took 0.121261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.542915 seconds.
+  path: Packages/com.unity.timeline/Editor/UnityEditorInternals.cs
+  artifactKey: Guid(f9045505a91f4aee87d5768fffc7de5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/UnityEditorInternals.cs using Guid(f9045505a91f4aee87d5768fffc7de5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672c4fa212db5ef48acfd48367a1b859') in 0.207293 seconds
+  Import took 0.209016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.008843 seconds.
+  path: Packages/com.unity.timeline/Editor/Shortcuts.cs
+  artifactKey: Guid(c35a186b967e6a24d9d844d412fe08a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/Shortcuts.cs using Guid(c35a186b967e6a24d9d844d412fe08a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8327686feb172b6c467c3bd927842a10') in 0.002403 seconds
+  Import took 0.004185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Packages/com.unity.timeline/Editor/Shortcuts.cs
+  artifactKey: Guid(c35a186b967e6a24d9d844d412fe08a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/Shortcuts.cs using Guid(c35a186b967e6a24d9d844d412fe08a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8327686feb172b6c467c3bd927842a10') in 0.001500 seconds
+  Import took 0.003008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.388486 seconds.
+  path: Packages/com.unity.timeline/DocCodeExamples/DocCodeExamples.asmdef
+  artifactKey: Guid(9550f6b9c1ac87345a996c43f204fb30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/DocCodeExamples/DocCodeExamples.asmdef using Guid(9550f6b9c1ac87345a996c43f204fb30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa550261411b23954c1891374612c8d') in 0.001812 seconds
+  Import took 0.003428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.128758 seconds.
+  path: Packages/com.unity.timeline/DocCodeExamples/ActionExamples.cs
+  artifactKey: Guid(617e6579183b7cc488aae748fe3f88bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/DocCodeExamples/ActionExamples.cs using Guid(617e6579183b7cc488aae748fe3f88bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c6aabbdb35534a7929006475991fcf') in 0.001516 seconds
+  Import took 0.003058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.485810 seconds.
+  path: Assets/CS - Signs Free/Models
+  artifactKey: Guid(730ac7bc995f416438d64c1e7cbafece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models using Guid(730ac7bc995f416438d64c1e7cbafece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5389b2000b301866b42f81225329886') in 0.001103 seconds
+  Import took 0.002635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.894367 seconds.
+  path: Assets/CS - Signs Free/Readme.txt
+  artifactKey: Guid(7b415d8871ac1504aa9c41986f5ce8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Readme.txt using Guid(7b415d8871ac1504aa9c41986f5ce8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e78497a9e43b6479eb8ef8baaa81f25') in 0.291567 seconds
+  Import took 0.293214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.161466 seconds.
+  path: Assets/CS - Signs Free/Models/Materials/Material.mat
+  artifactKey: Guid(687b62716c82d80469c0d4405a74055f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Materials/Material.mat using Guid(687b62716c82d80469c0d4405a74055f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef7d82951332c7df03c80bae2d33a81') in 0.013573 seconds
+  Import took 0.015264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/CS - Signs Free/Models/Materials/No Name.mat
+  artifactKey: Guid(2b3ef0b92622e6b4fbadc30b83b8b608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Materials/No Name.mat using Guid(2b3ef0b92622e6b4fbadc30b83b8b608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf86c67ce3572fd848314b06d7b3c44') in 0.007513 seconds
+  Import took 0.009271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/CS - Signs Free/Models/Materials/Material.mat
+  artifactKey: Guid(687b62716c82d80469c0d4405a74055f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Materials/Material.mat using Guid(687b62716c82d80469c0d4405a74055f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef7d82951332c7df03c80bae2d33a81') in 0.006211 seconds
+  Import took 0.007820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003284 seconds.
+  path: Assets/CS - Signs Free/Models/Materials/No Name.mat
+  artifactKey: Guid(2b3ef0b92622e6b4fbadc30b83b8b608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Materials/No Name.mat using Guid(2b3ef0b92622e6b4fbadc30b83b8b608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf86c67ce3572fd848314b06d7b3c44') in 0.006132 seconds
+  Import took 0.007732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.839680 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_2_Hour_Parking_2.prefab
+  artifactKey: Guid(809be4b584cf9964397021645a8e2ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_2_Hour_Parking_2.prefab using Guid(809be4b584cf9964397021645a8e2ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04fd9a58f1f2a4c2cfcbb4ac5038944') in 0.149127 seconds
+  Import took 0.151180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Dead_End.prefab
+  artifactKey: Guid(8d41ed4555777374694b2e7e1e7ffd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Dead_End.prefab using Guid(8d41ed4555777374694b2e7e1e7ffd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289cc07c01fa56cac25c7fb2f547fa65') in 0.013648 seconds
+  Import took 0.015661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Added_Lane_2.prefab
+  artifactKey: Guid(93cc623d93ca78e41968b3bbd65581ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Added_Lane_2.prefab using Guid(93cc623d93ca78e41968b3bbd65581ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'becc08272f7ae03fdd6bdd31e5a0dfb1') in 0.012577 seconds
+  Import took 0.014508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Chevron_R.prefab
+  artifactKey: Guid(96d80214945894c4e883cdc478ec1f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Chevron_R.prefab using Guid(96d80214945894c4e883cdc478ec1f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf0b74c590e4ac92b889e8d341a663c') in 0.014014 seconds
+  Import took 0.015930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Crossroad.prefab
+  artifactKey: Guid(ee7671ca6426a8545b456546f210795f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Crossroad.prefab using Guid(ee7671ca6426a8545b456546f210795f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7351d4930d5894b0ebf8abf7f1142f') in 0.012667 seconds
+  Import took 0.014566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Chevron_R.prefab
+  artifactKey: Guid(9f351f91199c0764fafb3db7279cef35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Chevron_R.prefab using Guid(9f351f91199c0764fafb3db7279cef35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0caa683f8cec204eb3f3930f3e4ad1') in 0.010688 seconds
+  Import took 0.012710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Dead_End.prefab
+  artifactKey: Guid(e32b7e33743160a41a4e6dfc96cd9cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Dead_End.prefab using Guid(e32b7e33743160a41a4e6dfc96cd9cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1248acc2a8fbca9d51f87e4269f7f7b6') in 0.010670 seconds
+  Import took 0.012581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Chevron_L.prefab
+  artifactKey: Guid(b4cee10575382ab4e93c83354a1b10c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Chevron_L.prefab using Guid(b4cee10575382ab4e93c83354a1b10c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc5b0cca153310e4b48a698c6358585') in 0.013978 seconds
+  Import took 0.015836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Added_Lane_2.prefab
+  artifactKey: Guid(e70171818c6c6bd4db1232c9f3920745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Added_Lane_2.prefab using Guid(e70171818c6c6bd4db1232c9f3920745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3930d7a250fc1975b559060b868201a0') in 0.011142 seconds
+  Import took 0.013320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_2_Way_Street.prefab
+  artifactKey: Guid(c07252de08dfb5941825bea813ba7f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_2_Way_Street.prefab using Guid(c07252de08dfb5941825bea813ba7f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c168a828e009dafd581338582ec8e41') in 0.011574 seconds
+  Import took 0.013456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Clearance_12_6.prefab
+  artifactKey: Guid(2974abd0fbf205342a2b765bf83fd71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Clearance_12_6.prefab using Guid(2974abd0fbf205342a2b765bf83fd71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54d5bffd4d43db71d017e4178e303d30') in 0.010942 seconds
+  Import took 0.012807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Clearance_12_6.prefab
+  artifactKey: Guid(ab2debb8b78dfc7429188875e415e6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Clearance_12_6.prefab using Guid(ab2debb8b78dfc7429188875e415e6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0912f538d52c97ea5205e3b29eb73b11') in 0.010448 seconds
+  Import took 0.012358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Added_Lane_2.prefab
+  artifactKey: Guid(7d25e7f0b67ac3242a40b6cc23265218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Added_Lane_2.prefab using Guid(7d25e7f0b67ac3242a40b6cc23265218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770dc03a0cea66b0c850aaafb1ee3c76') in 0.013539 seconds
+  Import took 0.015476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Center_Lane_Turn_Only.prefab
+  artifactKey: Guid(573833a53d91ed94e93cd6df6b36d9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Center_Lane_Turn_Only.prefab using Guid(573833a53d91ed94e93cd6df6b36d9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f67a113b07e0ab2dc8df8190bb46dbe') in 0.012489 seconds
+  Import took 0.014375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_2_Hour_Parking_2.prefab
+  artifactKey: Guid(73012354292b831498796426a5575d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_2_Hour_Parking_2.prefab using Guid(73012354292b831498796426a5575d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a861a644108d6972df68931a43b0ded6') in 0.010128 seconds
+  Import took 0.011973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_2_Way_Street.prefab
+  artifactKey: Guid(3a46691d5182e6b45b689599dceb669f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_2_Way_Street.prefab using Guid(3a46691d5182e6b45b689599dceb669f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5af1751aeffe67f2225fe25f058f547') in 0.010429 seconds
+  Import took 0.012269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Crossroad.prefab
+  artifactKey: Guid(f42c6b58acad5f4488f238dff7033fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Crossroad.prefab using Guid(f42c6b58acad5f4488f238dff7033fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8969446b9a63dcce560c041c0a2a90b') in 0.010018 seconds
+  Import took 0.011978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Added_Lane.prefab
+  artifactKey: Guid(dd559d6b30b24e74f9fb9a3f70c0b60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Added_Lane.prefab using Guid(dd559d6b30b24e74f9fb9a3f70c0b60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca8177d8010abc2fa120ab2e33d2abf') in 0.011077 seconds
+  Import took 0.013033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Chevron_L.prefab
+  artifactKey: Guid(d271402bdac431a4faf392e9a4e0f7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Chevron_L.prefab using Guid(d271402bdac431a4faf392e9a4e0f7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9dd99ea3f1ca4ddadd0b4339a5d003c') in 0.011651 seconds
+  Import took 0.013504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Added_Lane.prefab
+  artifactKey: Guid(4bf06948309f0de41830e4bfc62f7a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Added_Lane.prefab using Guid(4bf06948309f0de41830e4bfc62f7a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff49bddd98c028f13a301b354a330112') in 0.011097 seconds
+  Import took 0.013015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Added_Lane.prefab
+  artifactKey: Guid(43ab66a5b73108b4aba615d3541fc9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Added_Lane.prefab using Guid(43ab66a5b73108b4aba615d3541fc9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9157fdae407a1bce3ff9bd10b862a27') in 0.010798 seconds
+  Import took 0.012710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Dead_End.prefab
+  artifactKey: Guid(e492df67ba84bf14f9f523872533f13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Dead_End.prefab using Guid(e492df67ba84bf14f9f523872533f13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6b47befe25c845becdabc445e29646') in 0.011978 seconds
+  Import took 0.013810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Crossroad.prefab
+  artifactKey: Guid(e8587009c220d67439aacb895efab706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Crossroad.prefab using Guid(e8587009c220d67439aacb895efab706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad4d4a8c5a5d09c55408640c42a33a9e') in 0.010643 seconds
+  Import took 0.012607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_2_Way_Street.prefab
+  artifactKey: Guid(8b68463b20d2e7e429bc31ed99fb988e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_2_Way_Street.prefab using Guid(8b68463b20d2e7e429bc31ed99fb988e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2331780b188162fd1d2e2e5541ec74') in 0.013120 seconds
+  Import took 0.015082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Dead_End.prefab
+  artifactKey: Guid(079043d13375ad645b83a76876bb3de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Dead_End.prefab using Guid(079043d13375ad645b83a76876bb3de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859d2e85a7c3184a86a4003a01a4e54c') in 0.011260 seconds
+  Import took 0.013097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Chevron_L.prefab
+  artifactKey: Guid(87647183876706547a3a6d102d2480be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Chevron_L.prefab using Guid(87647183876706547a3a6d102d2480be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f676f45172b1b314be6f82a040fdcfae') in 0.010247 seconds
+  Import took 0.012203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Chevron_R.prefab
+  artifactKey: Guid(c9c0df3c99e6a044f96d955556315cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Chevron_R.prefab using Guid(c9c0df3c99e6a044f96d955556315cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f6e3aa7fccef0a4a0e1e20e7cfdd34') in 0.011016 seconds
+  Import took 0.012975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_2_Way_Street.prefab
+  artifactKey: Guid(c38f701c334163a479e23a27da555edd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_2_Way_Street.prefab using Guid(c38f701c334163a479e23a27da555edd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87e48c410e0109483bc737d25e60cf3') in 0.010679 seconds
+  Import took 0.012575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Added_Lane.prefab
+  artifactKey: Guid(455f8b3abee24c74cb3ed9330637361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Sm-Med/Sign_Added_Lane.prefab using Guid(455f8b3abee24c74cb3ed9330637361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88a58cf7e70d2d911403e9fecdb3a41') in 0.012465 seconds
+  Import took 0.014334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Added_Lane_2.prefab
+  artifactKey: Guid(a8edcd3fd0f1aa8488c2bdbb3707b576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Added_Lane_2.prefab using Guid(a8edcd3fd0f1aa8488c2bdbb3707b576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d9bd199f53e663e88011a906544537') in 0.011584 seconds
+  Import took 0.013524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Center_Lane_Turn_Only.prefab
+  artifactKey: Guid(dc495e568615b3d4fa422da6cb6fc197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Center_Lane_Turn_Only.prefab using Guid(dc495e568615b3d4fa422da6cb6fc197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6c30861e347fcc7a0351b51d638a3c') in 0.009913 seconds
+  Import took 0.011767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Small/Sign_Center_Lane_Turn_Only.prefab
+  artifactKey: Guid(783ae1ccba841764c9080f4783d801a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Small/Sign_Center_Lane_Turn_Only.prefab using Guid(783ae1ccba841764c9080f4783d801a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4586fb1b1a3686a4775f7c203824484c') in 0.010322 seconds
+  Import took 0.012127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Chevron_L.prefab
+  artifactKey: Guid(05b83145526126541ab38c842dd2868a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Chevron_L.prefab using Guid(05b83145526126541ab38c842dd2868a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec7ce82dbde63980b36f7921488ff9c1') in 0.011013 seconds
+  Import took 0.012888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Chevron_R.prefab
+  artifactKey: Guid(612e4787820081d45abc4d7d07e06e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Chevron_R.prefab using Guid(612e4787820081d45abc4d7d07e06e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623a0c8642ca707235315d5fb44de264') in 0.010581 seconds
+  Import took 0.012577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Medium/Sign_Clearance_12_6.prefab
+  artifactKey: Guid(473497f5a698977429a2b8de85483d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Medium/Sign_Clearance_12_6.prefab using Guid(473497f5a698977429a2b8de85483d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd9448d1c5dda0e89df1d8d26b69ce0') in 0.011546 seconds
+  Import took 0.013517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Crossroad.prefab
+  artifactKey: Guid(34185824c2b716f4c85da813c00291e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Crossroad.prefab using Guid(34185824c2b716f4c85da813c00291e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7a168a7d1a8d763f5f0821e99aa331') in 0.011042 seconds
+  Import took 0.012955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/CS - Signs Free/Prefabs/Large/Sign_Clearance_12_6.prefab
+  artifactKey: Guid(f5a193701f891b2449072595226c7ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Prefabs/Large/Sign_Clearance_12_6.prefab using Guid(f5a193701f891b2449072595226c7ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c992ac5f334b4b85827285bff74368') in 0.011935 seconds
+  Import took 0.014120 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000373 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.6 MB.
+System memory in use after: 153.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 1.560328 ms (FindLiveObjects: 0.246660 ms CreateObjectMapping: 0.045843 ms MarkObjects: 1.210153 ms  DeleteObjects: 0.057002 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1024.465676 seconds.
+  path: Assets/SimplePoly - Town Pack/Materials
+  artifactKey: Guid(a2fb77f94a275d1458ef132222e3ece3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Materials using Guid(a2fb77f94a275d1458ef132222e3ece3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c07bbf2516b6509c3498017f114647') in 0.002430 seconds
+  Import took 0.005236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.786119 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes/Buildings
+  artifactKey: Guid(e44888523fce2234f951f278911cef1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes/Buildings using Guid(e44888523fce2234f951f278911cef1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416a926b9a865a9360ffa0e3fc22bb27') in 0.001999 seconds
+  Import took 0.004095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.811677 seconds.
+  path: Assets/SimplePoly - Town Pack/Meshes
+  artifactKey: Guid(3b729149911fdc0438ff777acd4b4559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Meshes using Guid(3b729149911fdc0438ff777acd4b4559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef765faf81a0887a0a824d7e59b4bfef') in 0.001857 seconds
+  Import took 0.003504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.412537 seconds.
+  path: Assets/SimplePoly - Town Pack/Standard Assets
+  artifactKey: Guid(f3e25eb28ba1e374084ada0ddf6663dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Standard Assets using Guid(f3e25eb28ba1e374084ada0ddf6663dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8053b07f334ee909bde2aee3b9a8bbb3') in 0.001865 seconds
+  Import took 0.003291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.078208 seconds.
+  path: Assets/SimplePoly - Town Pack/Standard Assets/Effects
+  artifactKey: Guid(115d1f9d9bd29064ab981e57c8fc8cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Standard Assets/Effects using Guid(115d1f9d9bd29064ab981e57c8fc8cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616037ba17d7530e3820f8d0c3715dbd') in 0.001674 seconds
+  Import took 0.003461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.708690 seconds.
+  path: Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects
+  artifactKey: Guid(d6e0c95a128e14227939c51b5d9ad74e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects using Guid(d6e0c95a128e14227939c51b5d9ad74e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d95cb962cf0a08a744e0ff32757cf07') in 0.001675 seconds
+  Import took 0.003461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.420455 seconds.
+  path: Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts
+  artifactKey: Guid(cd3e1490c3d9a7a498538315414d5129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts using Guid(cd3e1490c3d9a7a498538315414d5129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecb39bd5c46fe987d60179af3933dd9') in 0.001817 seconds
+  Import took 0.003541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.007444 seconds.
+  path: Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+  artifactKey: Guid(b6f4318ec6c2bf643a0f9edfeeaba0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs using Guid(b6f4318ec6c2bf643a0f9edfeeaba0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9108927b9d662a58552279bca35f8962') in 0.002713 seconds
+  Import took 0.004200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002508 seconds.
+  path: Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+  artifactKey: Guid(b6f4318ec6c2bf643a0f9edfeeaba0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs using Guid(b6f4318ec6c2bf643a0f9edfeeaba0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9108927b9d662a58552279bca35f8962') in 0.001062 seconds
+  Import took 0.002361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.704400 seconds.
+  path: Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs
+  artifactKey: Guid(a20852ce049f64e4695a48b6a354be83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs using Guid(a20852ce049f64e4695a48b6a354be83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55c3dd687b5f524b6bf59c529af85c6') in 0.002442 seconds
+  Import took 0.003910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.767719 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Nature
+  artifactKey: Guid(601e02d516a8c3c4892dd1a7bd014bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Nature using Guid(601e02d516a8c3c4892dd1a7bd014bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c66503b7a3e94ffe80f5fa4ae9f1f83') in 0.001184 seconds
+  Import took 0.002812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111600 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_bush_01.prefab
+  artifactKey: Guid(cdc1936d58ab24443b5deb240dc3acfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_bush_01.prefab using Guid(cdc1936d58ab24443b5deb240dc3acfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6deac6e45b0f1a32a3ee82b3928c64f') in 0.077040 seconds
+  Import took 0.080797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_stone_02.prefab
+  artifactKey: Guid(a31d75f154921304794bf1d122281cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_stone_02.prefab using Guid(a31d75f154921304794bf1d122281cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6887768e1d7f5482301c4e1f2e5d7057') in 0.036769 seconds
+  Import took 0.040125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_tree_02.prefab
+  artifactKey: Guid(c0f33eb139fcff34c8de2acd690a23fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_tree_02.prefab using Guid(c0f33eb139fcff34c8de2acd690a23fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efd1a4629b8563d2933d245a79aabd1') in 0.039863 seconds
+  Import took 0.043133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_stone_01.prefab
+  artifactKey: Guid(bb3c6fcb21a1e4b4faa80734a481448b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_stone_01.prefab using Guid(bb3c6fcb21a1e4b4faa80734a481448b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811da4df63562cda6cb1be3f40088983') in 0.039584 seconds
+  Import took 0.042765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_tree_01.prefab
+  artifactKey: Guid(bfdde53371ba3b349b61d5bafef700d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_tree_01.prefab using Guid(bfdde53371ba3b349b61d5bafef700d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4760aaecf1f1c3242fcfd9346acf1bb6') in 0.037451 seconds
+  Import took 0.040550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_bush_02.prefab
+  artifactKey: Guid(b596eb5af66e89444beac675eae2c3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_bush_02.prefab using Guid(b596eb5af66e89444beac675eae2c3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240b6e20312bd58dbb758f9ce669cec6') in 0.038238 seconds
+  Import took 0.041301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1383.021066 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_01.prefab
+  artifactKey: Guid(84cd3f7c8273a1a459bc62834ebb2837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_01.prefab using Guid(84cd3f7c8273a1a459bc62834ebb2837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883eeb33b07e8e99c3cd6ad5a5c542ad') in 0.084936 seconds
+  Import took 0.097151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_04.prefab
+  artifactKey: Guid(38cfb67b87a91c74780f71a3ef91247f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_04.prefab using Guid(38cfb67b87a91c74780f71a3ef91247f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb2ec437083d3439a3f3b404651f26f') in 0.049816 seconds
+  Import took 0.053653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_electrical_panel_01.prefab
+  artifactKey: Guid(1d42226b8b4a94f4487b307b6b18dd43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_electrical_panel_01.prefab using Guid(1d42226b8b4a94f4487b307b6b18dd43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241a086507828dd7c65baaf3ef85055d') in 0.040567 seconds
+  Import took 0.043706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_dumpster_01.prefab
+  artifactKey: Guid(8aed0f8fb93c2ed4c96a99dcc130b90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_dumpster_01.prefab using Guid(8aed0f8fb93c2ed4c96a99dcc130b90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cae4beae62ea1c04c10f4dad04f60d6') in 0.038078 seconds
+  Import took 0.041174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_traffic_light_01.prefab
+  artifactKey: Guid(7f9ea44d759da6b4e995d9fa92373629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_traffic_light_01.prefab using Guid(7f9ea44d759da6b4e995d9fa92373629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2ae4d0b365cc40233e5f6f05de8ff6') in 0.040199 seconds
+  Import took 0.043643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_bin_02.prefab
+  artifactKey: Guid(70ea0ba299bdf0a49a2af90f19b23cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_bin_02.prefab using Guid(70ea0ba299bdf0a49a2af90f19b23cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b19ffb08c2cab041e4ce17e6cedadfc') in 0.038945 seconds
+  Import took 0.042168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_billboard_03.prefab
+  artifactKey: Guid(05fb03652e92efb42bc379e428d37bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_billboard_03.prefab using Guid(05fb03652e92efb42bc379e428d37bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0cf143f03f6a3e24dab5fe71114c3de') in 0.040233 seconds
+  Import took 0.043338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_billboard_01.prefab
+  artifactKey: Guid(2d7ff3605aa9cff4eb8e82f140a295da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_billboard_01.prefab using Guid(2d7ff3605aa9cff4eb8e82f140a295da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a801a55003e4835095b86da6ca259043') in 0.038504 seconds
+  Import took 0.041642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_bench_01.prefab
+  artifactKey: Guid(4000718aa726f174bb2a1e64ee9190cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_bench_01.prefab using Guid(4000718aa726f174bb2a1e64ee9190cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f133524398d90ef90de89ced8553e75') in 0.038468 seconds
+  Import took 0.041695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_bin_01.prefab
+  artifactKey: Guid(b3fd8ea55f8bdf9469ab92a17e818bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_bin_01.prefab using Guid(b3fd8ea55f8bdf9469ab92a17e818bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b234c691d88cdd62bed2574ce0be38') in 0.032882 seconds
+  Import took 0.036010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_billboard_02.prefab
+  artifactKey: Guid(afcb5e8f2ed7ce44ebcb9f16d41ffe1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_billboard_02.prefab using Guid(afcb5e8f2ed7ce44ebcb9f16d41ffe1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7278e0ab83f3a067e74c6ab12ba4545') in 0.037583 seconds
+  Import took 0.040981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_mail_box_01.prefab
+  artifactKey: Guid(8be6a5c88ef3420449ea4b8e6df23556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_mail_box_01.prefab using Guid(8be6a5c88ef3420449ea4b8e6df23556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a44e882ba74f540b2c1b599be2ea18b') in 0.039065 seconds
+  Import took 0.042446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_electrical_panel_02.prefab
+  artifactKey: Guid(84ead56049a99aa4d88b7860d5907105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_electrical_panel_02.prefab using Guid(84ead56049a99aa4d88b7860d5907105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7743fbde22bfe3c96e82a75745781d17') in 0.040151 seconds
+  Import took 0.043413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_03.prefab
+  artifactKey: Guid(156fad5b84ed1104d948668aca70b1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_03.prefab using Guid(156fad5b84ed1104d948668aca70b1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e0b57b88811922346c6c9a6a88feb8a') in 0.040066 seconds
+  Import took 0.043312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_fire_hydrant_01.prefab
+  artifactKey: Guid(43a5f581e928d1c40af75bbf1ab0dc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_fire_hydrant_01.prefab using Guid(43a5f581e928d1c40af75bbf1ab0dc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7dc41137544f8251b22335a08bb86e') in 0.040128 seconds
+  Import took 0.043393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_02.prefab
+  artifactKey: Guid(d0d7c624acaf68f4fbf6c22600228d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_02.prefab using Guid(d0d7c624acaf68f4fbf6c22600228d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5996530fa43a08e907bc7eccf42060') in 0.037907 seconds
+  Import took 0.041218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_street_light_01.prefab
+  artifactKey: Guid(2cc5e9c8613078b47b47bdcf3dc32ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_street_light_01.prefab using Guid(2cc5e9c8613078b47b47bdcf3dc32ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4274146ffcbb91d77b6096e34277bcd5') in 0.038456 seconds
+  Import took 0.041682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_02.prefab
+  artifactKey: Guid(d0d7c624acaf68f4fbf6c22600228d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_air_conditioning_02.prefab using Guid(d0d7c624acaf68f4fbf6c22600228d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5996530fa43a08e907bc7eccf42060') in 0.038987 seconds
+  Import took 0.042232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_street_light_02.prefab
+  artifactKey: Guid(0401a3f0164b9cf40bd8c14f152e69ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_street_light_02.prefab using Guid(0401a3f0164b9cf40bd8c14f152e69ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d8773ccd00b91ec8e4db2cd4c9d9ff') in 0.038343 seconds
+  Import took 0.041743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.448253 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_asphalt_01.prefab
+  artifactKey: Guid(b2b896f074253c346ac142ca389d3c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_asphalt_01.prefab using Guid(b2b896f074253c346ac142ca389d3c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35add76b3a1f3e71372f9b6d3928801') in 0.043420 seconds
+  Import took 0.047005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_07.prefab
+  artifactKey: Guid(581d1ebf3352b5346846e02aec6d28e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_07.prefab using Guid(581d1ebf3352b5346846e02aec6d28e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97f6b496d2d15ac9583f9aaee1f364b') in 0.039901 seconds
+  Import took 0.043155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_sidewalk_segment_03.prefab
+  artifactKey: Guid(d59da3d7b9c463c478d64b0722fd1ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_sidewalk_segment_03.prefab using Guid(d59da3d7b9c463c478d64b0722fd1ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2ab433dce7f567d06cd6038e1a3d7c') in 0.039691 seconds
+  Import took 0.042846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_16.prefab
+  artifactKey: Guid(3cf218854e6991946b36e2beec887904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_16.prefab using Guid(3cf218854e6991946b36e2beec887904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b68f77a6d53aff9224a2727bdf8136') in 0.038245 seconds
+  Import took 0.041367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_13.prefab
+  artifactKey: Guid(02f91f541e4bef1449cc4f1b3c5dd50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_13.prefab using Guid(02f91f541e4bef1449cc4f1b3c5dd50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c30dbabb49674b122090bd57b992f9') in 0.039644 seconds
+  Import took 0.042853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_01.prefab
+  artifactKey: Guid(82dceca16d2bc274a861326e450f4c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_01.prefab using Guid(82dceca16d2bc274a861326e450f4c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83adb61c4416e985b93aa40e61da2d1c') in 0.033688 seconds
+  Import took 0.036900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_04.prefab
+  artifactKey: Guid(e4e5cb51e7d1bef41a5acb77c0759bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_04.prefab using Guid(e4e5cb51e7d1bef41a5acb77c0759bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d3144bb37d6375fb1231d1b62a23ef7') in 0.038251 seconds
+  Import took 0.041671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_sidewalk_segment_02.prefab
+  artifactKey: Guid(0f87996433fed0f4da76dbc5eec9f4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_sidewalk_segment_02.prefab using Guid(0f87996433fed0f4da76dbc5eec9f4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cab3b3f5614a6d4447d906541c978a6') in 0.041782 seconds
+  Import took 0.045352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_street_concrete_01.prefab
+  artifactKey: Guid(8b23b54510c08544b924f8e4502acc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_street_concrete_01.prefab using Guid(8b23b54510c08544b924f8e4502acc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9158b9516555eaa172176eb0a57b809c') in 0.038908 seconds
+  Import took 0.042127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_grass_01.prefab
+  artifactKey: Guid(a93a4058bd3225b4fb6d6b59fa5bc871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_grass_01.prefab using Guid(a93a4058bd3225b4fb6d6b59fa5bc871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f64e48d450e71e116d9330c4e603fbc') in 0.038666 seconds
+  Import took 0.041750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_12.prefab
+  artifactKey: Guid(326362485e25689468f84ed4c6c93107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_12.prefab using Guid(326362485e25689468f84ed4c6c93107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3e85e815541f4b075577ca3f326712') in 0.038515 seconds
+  Import took 0.041769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_06.prefab
+  artifactKey: Guid(1e7a99a3834321e4888e3895985b04cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_06.prefab using Guid(1e7a99a3834321e4888e3895985b04cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713034cb29bab6a7c2a3a0c8def76cf1') in 0.038655 seconds
+  Import took 0.041774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_05.prefab
+  artifactKey: Guid(61b9c9e3076bd7145a7680b591aab7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_05.prefab using Guid(61b9c9e3076bd7145a7680b591aab7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9c3e323f51cc5b5d92ded3242bf8b8') in 0.039192 seconds
+  Import took 0.042424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_08.prefab
+  artifactKey: Guid(2735bdfa72e806248aafddd7a7ab3177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_08.prefab using Guid(2735bdfa72e806248aafddd7a7ab3177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f740a8f23e8feb341778718e92dc5fab') in 0.038362 seconds
+  Import took 0.041471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_10.prefab
+  artifactKey: Guid(8e3bf3e187a935d4f867c1af041ddfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_10.prefab using Guid(8e3bf3e187a935d4f867c1af041ddfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c822e4c7b86c6ba12e81701e747575') in 0.039262 seconds
+  Import took 0.042397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_09.prefab
+  artifactKey: Guid(52e3c281ef0f0ea4985188d26644edcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_09.prefab using Guid(52e3c281ef0f0ea4985188d26644edcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c6760344d2f5a77f80bea3e8df6c4a') in 0.038741 seconds
+  Import took 0.041841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_14.prefab
+  artifactKey: Guid(0af06042621572a499913c0ebe5e69ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_14.prefab using Guid(0af06042621572a499913c0ebe5e69ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58da80ae4cd47906d4f630a1ac84859') in 0.038304 seconds
+  Import took 0.041392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_03.prefab
+  artifactKey: Guid(72194ced846018c41a130c6ba8b041a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_03.prefab using Guid(72194ced846018c41a130c6ba8b041a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907103f2a16b6076417e327d753e9516') in 0.039546 seconds
+  Import took 0.042728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_15.prefab
+  artifactKey: Guid(aa562231f82a2664490d4cd36e223e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_15.prefab using Guid(aa562231f82a2664490d4cd36e223e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed298321533fdb7e76fdeaf5632b6215') in 0.039517 seconds
+  Import took 0.042684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_sidewalk_segment_01.prefab
+  artifactKey: Guid(038d62757c80f794bb10c0b00599087a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_sidewalk_segment_01.prefab using Guid(038d62757c80f794bb10c0b00599087a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743d16d7db35e2d3d63390f694f39056') in 0.037540 seconds
+  Import took 0.040718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_11.prefab
+  artifactKey: Guid(f76e9ef0fd63b484388ce742819e4750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_11.prefab using Guid(f76e9ef0fd63b484388ce742819e4750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15afa8db554968c7ab15832ce7154fbd') in 0.038795 seconds
+  Import took 0.041914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_02.prefab
+  artifactKey: Guid(0aa3874478ee5bd499a237e5b988bbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_02.prefab using Guid(0aa3874478ee5bd499a237e5b988bbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470d1b5f95800c9ff65fbbddef59e77c') in 0.033686 seconds
+  Import took 0.036836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 875.612197 seconds.
+  path: Assets/CS - Signs Free/Models/Materials
+  artifactKey: Guid(30061d1cd4538ce41bf290a98c114962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CS - Signs Free/Models/Materials using Guid(30061d1cd4538ce41bf290a98c114962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd208ecebee29072fde1e2a38ac4846b5') in 0.001065 seconds
+  Import took 0.003446 seconds .
+
