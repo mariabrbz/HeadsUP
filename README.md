@@ -1,7 +1,7 @@
 # HeadsUP
 
 ## Inspiration
-We wanted to create an interactive game where new drivers can learn about essential driving and traffic rules.
+We wanted to create an interactive game where new drivers can learn about essential driving knowledge and traffic rules and practice good driving behaviors. Specifically, we want new drivers to be able to master basic and important driving skills after playing our game. We also hope new drivers will be more confident when they are on the road after playing our game.
 
 ## What it does
 HeadsUp is an interactive game designed to educate new drivers about important driving skills and traffic rules. Players will have the chance to learn about essential driving rules during the game and receive feedback for improvements. Additionally, there are be pop-up questions to test players' driving knowledge and their scores will determine their current driving skills. We based the rules of our game on the MVD Driving Manual.
